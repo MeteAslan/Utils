@@ -1,0 +1,702 @@
+[
+    {
+        "index": 0,
+        "prompt": "Summarize the following dialogue  #Person1#: Ms. Dawson, I need you to take a dictation for me.\n#Person2#: Yes, sir...\n#Person1#: This should go out as an intra-office memorandum to all employees by this afternoon. Are you ready?\n#Person2#: Yes, sir. Go ahead.\n#Person1#: Attention all staff... Effective immediately, all office communications are restricted to email correspondence and official memos. The use of Instant Message programs by employees during working hours is strictly prohibited.\n#Person2#: Sir, does this apply to intra-office communications only? Or will it also restrict external communications?\n#Person1#: It should apply to all communications, not only in this office between employees, but also any outside communications.\n#Person2#: But sir, many employees use Instant Messaging to communicate with their clients.\n#Person1#: They will just have to change their communication methods. I don't want any - one using Instant Messaging in this office. It wastes too much time! Now, please continue with the memo. Where were we?\n#Person2#: This applies to internal and external communications.\n#Person1#: Yes. Any employee who persists in using Instant Messaging will first receive a warning and be placed on probation. At second offense, the employee will face termination. Any questions regarding this new policy may be directed to department heads.\n#Person2#: Is that all?\n#Person1#: Yes. Please get this memo typed up and distributed to all employees before 4 pm.  Summary:",
+        "human_summary": "Ms. Dawson helps #Person1# to write a memo to inform every employee that they have to change the communication method and should not use Instant Messaging anymore.",
+        "model_output_base": "The memo will go out to all employees by this afternoon.",
+        "model_output_finetuning": "This memo should go out as an intra-office memo to all employees by this afternoon."
+    },
+    {
+        "index": 1,
+        "prompt": "Summarize the following dialogue  #Person1#: Ms. Dawson, I need you to take a dictation for me.\n#Person2#: Yes, sir...\n#Person1#: This should go out as an intra-office memorandum to all employees by this afternoon. Are you ready?\n#Person2#: Yes, sir. Go ahead.\n#Person1#: Attention all staff... Effective immediately, all office communications are restricted to email correspondence and official memos. The use of Instant Message programs by employees during working hours is strictly prohibited.\n#Person2#: Sir, does this apply to intra-office communications only? Or will it also restrict external communications?\n#Person1#: It should apply to all communications, not only in this office between employees, but also any outside communications.\n#Person2#: But sir, many employees use Instant Messaging to communicate with their clients.\n#Person1#: They will just have to change their communication methods. I don't want any - one using Instant Messaging in this office. It wastes too much time! Now, please continue with the memo. Where were we?\n#Person2#: This applies to internal and external communications.\n#Person1#: Yes. Any employee who persists in using Instant Messaging will first receive a warning and be placed on probation. At second offense, the employee will face termination. Any questions regarding this new policy may be directed to department heads.\n#Person2#: Is that all?\n#Person1#: Yes. Please get this memo typed up and distributed to all employees before 4 pm.  Summary:",
+        "human_summary": "In order to prevent employees from wasting time on Instant Message programs, #Person1# decides to terminate the use of those programs and asks Ms. Dawson to send out a memo to all employees by the afternoon.",
+        "model_output_base": "The memo will go out to all employees by this afternoon.",
+        "model_output_finetuning": "This memo should go out as an intra-office memo to all employees by this afternoon."
+    },
+    {
+        "index": 2,
+        "prompt": "Summarize the following dialogue  #Person1#: Ms. Dawson, I need you to take a dictation for me.\n#Person2#: Yes, sir...\n#Person1#: This should go out as an intra-office memorandum to all employees by this afternoon. Are you ready?\n#Person2#: Yes, sir. Go ahead.\n#Person1#: Attention all staff... Effective immediately, all office communications are restricted to email correspondence and official memos. The use of Instant Message programs by employees during working hours is strictly prohibited.\n#Person2#: Sir, does this apply to intra-office communications only? Or will it also restrict external communications?\n#Person1#: It should apply to all communications, not only in this office between employees, but also any outside communications.\n#Person2#: But sir, many employees use Instant Messaging to communicate with their clients.\n#Person1#: They will just have to change their communication methods. I don't want any - one using Instant Messaging in this office. It wastes too much time! Now, please continue with the memo. Where were we?\n#Person2#: This applies to internal and external communications.\n#Person1#: Yes. Any employee who persists in using Instant Messaging will first receive a warning and be placed on probation. At second offense, the employee will face termination. Any questions regarding this new policy may be directed to department heads.\n#Person2#: Is that all?\n#Person1#: Yes. Please get this memo typed up and distributed to all employees before 4 pm.  Summary:",
+        "human_summary": "Ms. Dawson takes a dictation for #Person1# about prohibiting the use of Instant Message programs in the office. They argue about its reasonability but #Person1# still insists.",
+        "model_output_base": "The memo will go out to all employees by this afternoon.",
+        "model_output_finetuning": "This memo should go out as an intra-office memo to all employees by this afternoon."
+    },
+    {
+        "index": 3,
+        "prompt": "Summarize the following dialogue  #Person1#: You're finally here! What took so long?\n#Person2#: I got stuck in traffic again. There was a terrible traffic jam near the Carrefour intersection.\n#Person1#: It's always rather congested down there during rush hour. Maybe you should try to find a different route to get home.\n#Person2#: I don't think it can be avoided, to be honest.\n#Person1#: perhaps it would be better if you started taking public transport system to work.\n#Person2#: I think it's something that I'll have to consider. The public transport system is pretty good.\n#Person1#: It would be better for the environment, too.\n#Person2#: I know. I feel bad about how much my car is adding to the pollution problem in this city.\n#Person1#: Taking the subway would be a lot less stressful than driving as well.\n#Person2#: The only problem is that I'm going to really miss having the freedom that you have with a car.\n#Person1#: Well, when it's nicer outside, you can start biking to work. That will give you just as much freedom as your car usually provides.\n#Person2#: That's true. I could certainly use the exercise!\n#Person1#: So, are you going to quit driving to work then?\n#Person2#: Yes, it's not good for me or for the environment.  Summary:",
+        "human_summary": "#Person2# arrives late because of traffic jam. #Person1# persuades #Person2# to use public transportations to keep healthy and to protect the environment.",
+        "model_output_base": "The traffic jam at the Carrefour intersection has taken a long time to overcome.",
+        "model_output_finetuning": "You're finally here! What took so long. #Person1# got stuck in traffic again. #Person2# feels bad about how much his car is adding to the pollution problem in this city. #Person2# thinks it would be better for the environment. #Person2# thinks it would be better for the environment. #Person2# thinks it would be better for the environment."
+    },
+    {
+        "index": 4,
+        "prompt": "Summarize the following dialogue  #Person1#: You're finally here! What took so long?\n#Person2#: I got stuck in traffic again. There was a terrible traffic jam near the Carrefour intersection.\n#Person1#: It's always rather congested down there during rush hour. Maybe you should try to find a different route to get home.\n#Person2#: I don't think it can be avoided, to be honest.\n#Person1#: perhaps it would be better if you started taking public transport system to work.\n#Person2#: I think it's something that I'll have to consider. The public transport system is pretty good.\n#Person1#: It would be better for the environment, too.\n#Person2#: I know. I feel bad about how much my car is adding to the pollution problem in this city.\n#Person1#: Taking the subway would be a lot less stressful than driving as well.\n#Person2#: The only problem is that I'm going to really miss having the freedom that you have with a car.\n#Person1#: Well, when it's nicer outside, you can start biking to work. That will give you just as much freedom as your car usually provides.\n#Person2#: That's true. I could certainly use the exercise!\n#Person1#: So, are you going to quit driving to work then?\n#Person2#: Yes, it's not good for me or for the environment.  Summary:",
+        "human_summary": "#Person2# decides to follow #Person1#'s suggestions on quitting driving to work and will try to use public transportations.",
+        "model_output_base": "The traffic jam at the Carrefour intersection has taken a long time to overcome.",
+        "model_output_finetuning": "You're finally here! What took so long. #Person1# got stuck in traffic again. #Person2# feels bad about how much his car is adding to the pollution problem in this city. #Person2# thinks it would be better for the environment. #Person2# thinks it would be better for the environment. #Person2# thinks it would be better for the environment."
+    },
+    {
+        "index": 5,
+        "prompt": "Summarize the following dialogue  #Person1#: You're finally here! What took so long?\n#Person2#: I got stuck in traffic again. There was a terrible traffic jam near the Carrefour intersection.\n#Person1#: It's always rather congested down there during rush hour. Maybe you should try to find a different route to get home.\n#Person2#: I don't think it can be avoided, to be honest.\n#Person1#: perhaps it would be better if you started taking public transport system to work.\n#Person2#: I think it's something that I'll have to consider. The public transport system is pretty good.\n#Person1#: It would be better for the environment, too.\n#Person2#: I know. I feel bad about how much my car is adding to the pollution problem in this city.\n#Person1#: Taking the subway would be a lot less stressful than driving as well.\n#Person2#: The only problem is that I'm going to really miss having the freedom that you have with a car.\n#Person1#: Well, when it's nicer outside, you can start biking to work. That will give you just as much freedom as your car usually provides.\n#Person2#: That's true. I could certainly use the exercise!\n#Person1#: So, are you going to quit driving to work then?\n#Person2#: Yes, it's not good for me or for the environment.  Summary:",
+        "human_summary": "#Person2# complains to #Person1# about the traffic jam, #Person1# suggests quitting driving and taking public transportation instead.",
+        "model_output_base": "The traffic jam at the Carrefour intersection has taken a long time to overcome.",
+        "model_output_finetuning": "You're finally here! What took so long. #Person1# got stuck in traffic again. #Person2# feels bad about how much his car is adding to the pollution problem in this city. #Person2# thinks it would be better for the environment. #Person2# thinks it would be better for the environment. #Person2# thinks it would be better for the environment."
+    },
+    {
+        "index": 6,
+        "prompt": "Summarize the following dialogue  #Person1#: Kate, you never believe what's happened.\n#Person2#: What do you mean?\n#Person1#: Masha and Hero are getting divorced.\n#Person2#: You are kidding. What happened?\n#Person1#: Well, I don't really know, but I heard that they are having a separation for 2 months, and filed for divorce.\n#Person2#: That's really surprising. I always thought they are well matched. What about the kids? Who get custody?\n#Person1#: Masha, it seems quiet and makable, no quarrelling about who get the house and stock and then contesting the divorce with other details worked out.\n#Person2#: That's the change from all the back stepping we usually hear about. Well, I still can't believe it, Masha and Hero, the perfect couple. When would they divorce be final?\n#Person1#: Early in the New Year I guess.  Summary:",
+        "human_summary": "#Person1# tells Kate that Masha and Hero get divorced. Kate is surprised because she thought they are perfect couple.",
+        "model_output_base": "Masha and Hero are getting divorced.",
+        "model_output_finetuning": "This is a very good divorce for Masha and Hero."
+    },
+    {
+        "index": 7,
+        "prompt": "Summarize the following dialogue  #Person1#: Kate, you never believe what's happened.\n#Person2#: What do you mean?\n#Person1#: Masha and Hero are getting divorced.\n#Person2#: You are kidding. What happened?\n#Person1#: Well, I don't really know, but I heard that they are having a separation for 2 months, and filed for divorce.\n#Person2#: That's really surprising. I always thought they are well matched. What about the kids? Who get custody?\n#Person1#: Masha, it seems quiet and makable, no quarrelling about who get the house and stock and then contesting the divorce with other details worked out.\n#Person2#: That's the change from all the back stepping we usually hear about. Well, I still can't believe it, Masha and Hero, the perfect couple. When would they divorce be final?\n#Person1#: Early in the New Year I guess.  Summary:",
+        "human_summary": "#Person1# tells Kate that Masha and Hero are getting a peaceful divorce. Kate feels surprised and asks about their kids.",
+        "model_output_base": "Masha and Hero are getting divorced.",
+        "model_output_finetuning": "This is a very good divorce for Masha and Hero."
+    },
+    {
+        "index": 8,
+        "prompt": "Summarize the following dialogue  #Person1#: Kate, you never believe what's happened.\n#Person2#: What do you mean?\n#Person1#: Masha and Hero are getting divorced.\n#Person2#: You are kidding. What happened?\n#Person1#: Well, I don't really know, but I heard that they are having a separation for 2 months, and filed for divorce.\n#Person2#: That's really surprising. I always thought they are well matched. What about the kids? Who get custody?\n#Person1#: Masha, it seems quiet and makable, no quarrelling about who get the house and stock and then contesting the divorce with other details worked out.\n#Person2#: That's the change from all the back stepping we usually hear about. Well, I still can't believe it, Masha and Hero, the perfect couple. When would they divorce be final?\n#Person1#: Early in the New Year I guess.  Summary:",
+        "human_summary": "#Person1# and Kate talk about the divorce between Masha and Hero. Kate feels surprised because she thought they are well matched",
+        "model_output_base": "Masha and Hero are getting divorced.",
+        "model_output_finetuning": "This is a very good divorce for Masha and Hero."
+    },
+    {
+        "index": 9,
+        "prompt": "Summarize the following dialogue  #Person1#: Happy Birthday, this is for you, Brian.\n#Person2#: I'm so happy you remember, please come in and enjoy the party. Everyone's here, I'm sure you have a good time.\n#Person1#: Brian, may I have a pleasure to have a dance with you?\n#Person2#: Ok.\n#Person1#: This is really wonderful party.\n#Person2#: Yes, you are always popular with everyone. and you look very pretty today.\n#Person1#: Thanks, that's very kind of you to say. I hope my necklace goes with my dress, and they both make me look good I feel.\n#Person2#: You look great, you are absolutely glowing.\n#Person1#: Thanks, this is a fine party. We should have a drink together to celebrate your birthday  Summary:",
+        "human_summary": "#Person1# and Brian are at the birthday party of Brian. Brian thinks #Person1# looks great and is popular.",
+        "model_output_base": "Brian's birthday is coming up.",
+        "model_output_finetuning": "This is Brian's birthday."
+    },
+    {
+        "index": 10,
+        "prompt": "Summarize the following dialogue  #Person1#: Happy Birthday, this is for you, Brian.\n#Person2#: I'm so happy you remember, please come in and enjoy the party. Everyone's here, I'm sure you have a good time.\n#Person1#: Brian, may I have a pleasure to have a dance with you?\n#Person2#: Ok.\n#Person1#: This is really wonderful party.\n#Person2#: Yes, you are always popular with everyone. and you look very pretty today.\n#Person1#: Thanks, that's very kind of you to say. I hope my necklace goes with my dress, and they both make me look good I feel.\n#Person2#: You look great, you are absolutely glowing.\n#Person1#: Thanks, this is a fine party. We should have a drink together to celebrate your birthday  Summary:",
+        "human_summary": "#Person1# attends Brian's birthday party. Brian thinks #Person1# looks great and charming.",
+        "model_output_base": "Brian's birthday is coming up.",
+        "model_output_finetuning": "This is Brian's birthday."
+    },
+    {
+        "index": 11,
+        "prompt": "Summarize the following dialogue  #Person1#: Happy Birthday, this is for you, Brian.\n#Person2#: I'm so happy you remember, please come in and enjoy the party. Everyone's here, I'm sure you have a good time.\n#Person1#: Brian, may I have a pleasure to have a dance with you?\n#Person2#: Ok.\n#Person1#: This is really wonderful party.\n#Person2#: Yes, you are always popular with everyone. and you look very pretty today.\n#Person1#: Thanks, that's very kind of you to say. I hope my necklace goes with my dress, and they both make me look good I feel.\n#Person2#: You look great, you are absolutely glowing.\n#Person1#: Thanks, this is a fine party. We should have a drink together to celebrate your birthday  Summary:",
+        "human_summary": "#Person1# has a dance with Brian at Brian's birthday party. Brian thinks #Person1# looks great and is popular.",
+        "model_output_base": "Brian's birthday is coming up.",
+        "model_output_finetuning": "This is Brian's birthday."
+    },
+    {
+        "index": 12,
+        "prompt": "Summarize the following dialogue  #Person1#: This Olympic park is so big!\n#Person2#: Yes. Now we are in the Olympic stadium, the center of this park.\n#Person1#: Splendid! When is it gonna be finished?\n#Person2#: The whole stadium is to be finished this June.\n#Person1#: How many seats are there in the stand?\n#Person2#: Oh, there are 5000 seats in total.\n#Person1#: I didn ' t know it would be so big!\n#Person2#: It is! Look there, those are the tracks. And the jumping pit is over there.\n#Person1#: Ah... I see. Hey, look the sign here, No climbing.\n#Person2#: We put many signs with English translations for foreign visitors.  Summary:",
+        "human_summary": "#Person1# is surprised at the Olympic Stadium'volume, capacity and interior setting to #Person1#.",
+        "model_output_base": "The Olympic stadium is the center of the park.",
+        "model_output_finetuning": "This Olympic park is so big! #Person1# is in the Olympic stadium, the center of the park. #Person1# is excited about the park. #Person1# is excited about the big stadium. #Person1# is excited about the big stadium. #Person1# is excited about the big stadium. #Person1# is excited about the big stadium. #Person1# is excited about the big stadium."
+    },
+    {
+        "index": 13,
+        "prompt": "Summarize the following dialogue  #Person1#: This Olympic park is so big!\n#Person2#: Yes. Now we are in the Olympic stadium, the center of this park.\n#Person1#: Splendid! When is it gonna be finished?\n#Person2#: The whole stadium is to be finished this June.\n#Person1#: How many seats are there in the stand?\n#Person2#: Oh, there are 5000 seats in total.\n#Person1#: I didn ' t know it would be so big!\n#Person2#: It is! Look there, those are the tracks. And the jumping pit is over there.\n#Person1#: Ah... I see. Hey, look the sign here, No climbing.\n#Person2#: We put many signs with English translations for foreign visitors.  Summary:",
+        "human_summary": "#Person2# shows #Person1# around the constructing Olympic stadium and introduces the stadium.",
+        "model_output_base": "The Olympic stadium is the center of the park.",
+        "model_output_finetuning": "This Olympic park is so big! #Person1# is in the Olympic stadium, the center of the park. #Person1# is excited about the park. #Person1# is excited about the big stadium. #Person1# is excited about the big stadium. #Person1# is excited about the big stadium. #Person1# is excited about the big stadium. #Person1# is excited about the big stadium."
+    },
+    {
+        "index": 14,
+        "prompt": "Summarize the following dialogue  #Person1#: This Olympic park is so big!\n#Person2#: Yes. Now we are in the Olympic stadium, the center of this park.\n#Person1#: Splendid! When is it gonna be finished?\n#Person2#: The whole stadium is to be finished this June.\n#Person1#: How many seats are there in the stand?\n#Person2#: Oh, there are 5000 seats in total.\n#Person1#: I didn ' t know it would be so big!\n#Person2#: It is! Look there, those are the tracks. And the jumping pit is over there.\n#Person1#: Ah... I see. Hey, look the sign here, No climbing.\n#Person2#: We put many signs with English translations for foreign visitors.  Summary:",
+        "human_summary": "#Person2# introduces the Olympic Stadium's finishing time, capacity and interior setting to #Person1#.",
+        "model_output_base": "The Olympic stadium is the center of the park.",
+        "model_output_finetuning": "This Olympic park is so big! #Person1# is in the Olympic stadium, the center of the park. #Person1# is excited about the park. #Person1# is excited about the big stadium. #Person1# is excited about the big stadium. #Person1# is excited about the big stadium. #Person1# is excited about the big stadium. #Person1# is excited about the big stadium."
+    },
+    {
+        "index": 15,
+        "prompt": "Summarize the following dialogue  #Person1#: I've had it! I am done working for a company that is taking me nowhere!\n#Person2#: So what are you gonna do? Just quit?\n#Person1#: That's exactly what I am going to do! I have decided to create my own company! I am going to write up a business plan, get some investors and start working for myself!\n#Person2#: Have you ever written up a business plan before?\n#Person1#: Well, no, it can't be that hard! I mean, all you have to do is explain your business, how you are going to do things and that's it, right?\n#Person2#: You couldn't be more wrong! A well written business plan will include an executive summary which highlights the idea of the business in two pages or less. Then you need to describe your company with information such as what type of legal structure it has, history, etc.\n#Person1#: Well, that seems easy enough.\n#Person2#: Wait, there is more! Then you need to introduce and describe your goods or services. What they are and how they are different from competitors? Then comes the hard part, a market analysis. You need to investigate and analyze hundreds of variables! You need to take into consideration socioeconomic factors from GDP per capita to how many children on average the population has! All this information is useful so that you can move on to your strategy and implementation stage, where you will describe in detail how you will actually execute your idea.\n#Person1#: Geez. Is that all?\n#Person2#: Almost, the most important piece of information for your investors will be the financial analysis. Here you will calculate and estimate sales, cash flow and profits. After all, people will want to know when they will begin to see a return on their investment!\n#Person1#: Umm. I think I ' ll just stick to my old job and save myself all the hassle of trying to start up a business!  Summary:",
+        "human_summary": "#Person1# wants to create a company and is going to write a business plan. #Person2# gives #Person1# suggestions on how to summarise business ideas, describe the service, differ from competitors and attract investment in a good business plan. #Person1# decides to stick to the old job.",
+        "model_output_base": "#Person1#: I'm done working for a company that is taking me nowhere! #Person2#: Well, that's exactly what I am going to do! I have decided to create my own company! I am going to write up a business plan, get some investors and start working for myself! #Person1#: Well, all you have to do is explain your business, how you are going to do things and that's it! #Person2#: Well, that seems easy enough! #Person1#: Well, that seems easy enough! #Person2#: Well, there is more! Then you need to introduce and describe your goods or services. #Person1#: Well, that seems easy enough! #Person2#: Well, that seems easy enough! #Person1#: Well, that seems easy enough! #Person1#: Well, that seems",
+        "model_output_finetuning": "You need to write up a business plan and get some investors and start working for yourself."
+    },
+    {
+        "index": 16,
+        "prompt": "Summarize the following dialogue  #Person1#: I've had it! I am done working for a company that is taking me nowhere!\n#Person2#: So what are you gonna do? Just quit?\n#Person1#: That's exactly what I am going to do! I have decided to create my own company! I am going to write up a business plan, get some investors and start working for myself!\n#Person2#: Have you ever written up a business plan before?\n#Person1#: Well, no, it can't be that hard! I mean, all you have to do is explain your business, how you are going to do things and that's it, right?\n#Person2#: You couldn't be more wrong! A well written business plan will include an executive summary which highlights the idea of the business in two pages or less. Then you need to describe your company with information such as what type of legal structure it has, history, etc.\n#Person1#: Well, that seems easy enough.\n#Person2#: Wait, there is more! Then you need to introduce and describe your goods or services. What they are and how they are different from competitors? Then comes the hard part, a market analysis. You need to investigate and analyze hundreds of variables! You need to take into consideration socioeconomic factors from GDP per capita to how many children on average the population has! All this information is useful so that you can move on to your strategy and implementation stage, where you will describe in detail how you will actually execute your idea.\n#Person1#: Geez. Is that all?\n#Person2#: Almost, the most important piece of information for your investors will be the financial analysis. Here you will calculate and estimate sales, cash flow and profits. After all, people will want to know when they will begin to see a return on their investment!\n#Person1#: Umm. I think I ' ll just stick to my old job and save myself all the hassle of trying to start up a business!  Summary:",
+        "human_summary": "#Person1# abandons the idea of creating a company after #Person2# explains what a business plan includes. #Person2# specifies that a well-written business plan includes an executive summary, goods and service description, strategy and implementation, and financial analysis.",
+        "model_output_base": "#Person1#: I'm done working for a company that is taking me nowhere! #Person2#: Well, that's exactly what I am going to do! I have decided to create my own company! I am going to write up a business plan, get some investors and start working for myself! #Person1#: Well, all you have to do is explain your business, how you are going to do things and that's it! #Person2#: Well, that seems easy enough! #Person1#: Well, that seems easy enough! #Person2#: Well, there is more! Then you need to introduce and describe your goods or services. #Person1#: Well, that seems easy enough! #Person2#: Well, that seems easy enough! #Person1#: Well, that seems easy enough! #Person1#: Well, that seems",
+        "model_output_finetuning": "You need to write up a business plan and get some investors and start working for yourself."
+    },
+    {
+        "index": 17,
+        "prompt": "Summarize the following dialogue  #Person1#: I've had it! I am done working for a company that is taking me nowhere!\n#Person2#: So what are you gonna do? Just quit?\n#Person1#: That's exactly what I am going to do! I have decided to create my own company! I am going to write up a business plan, get some investors and start working for myself!\n#Person2#: Have you ever written up a business plan before?\n#Person1#: Well, no, it can't be that hard! I mean, all you have to do is explain your business, how you are going to do things and that's it, right?\n#Person2#: You couldn't be more wrong! A well written business plan will include an executive summary which highlights the idea of the business in two pages or less. Then you need to describe your company with information such as what type of legal structure it has, history, etc.\n#Person1#: Well, that seems easy enough.\n#Person2#: Wait, there is more! Then you need to introduce and describe your goods or services. What they are and how they are different from competitors? Then comes the hard part, a market analysis. You need to investigate and analyze hundreds of variables! You need to take into consideration socioeconomic factors from GDP per capita to how many children on average the population has! All this information is useful so that you can move on to your strategy and implementation stage, where you will describe in detail how you will actually execute your idea.\n#Person1#: Geez. Is that all?\n#Person2#: Almost, the most important piece of information for your investors will be the financial analysis. Here you will calculate and estimate sales, cash flow and profits. After all, people will want to know when they will begin to see a return on their investment!\n#Person1#: Umm. I think I ' ll just stick to my old job and save myself all the hassle of trying to start up a business!  Summary:",
+        "human_summary": "#Person1# wants to start #Person1#'s own business, but #Person2# warns #Person1# of the hassle. #Person2# tells #Person1# what is needed in a business plan and #Person1# decides to stick to the old job for now.",
+        "model_output_base": "#Person1#: I'm done working for a company that is taking me nowhere! #Person2#: Well, that's exactly what I am going to do! I have decided to create my own company! I am going to write up a business plan, get some investors and start working for myself! #Person1#: Well, all you have to do is explain your business, how you are going to do things and that's it! #Person2#: Well, that seems easy enough! #Person1#: Well, that seems easy enough! #Person2#: Well, there is more! Then you need to introduce and describe your goods or services. #Person1#: Well, that seems easy enough! #Person2#: Well, that seems easy enough! #Person1#: Well, that seems easy enough! #Person1#: Well, that seems",
+        "model_output_finetuning": "You need to write up a business plan and get some investors and start working for yourself."
+    },
+    {
+        "index": 18,
+        "prompt": "Summarize the following dialogue  #Person1#: What's wrong with you? Why are you scratching so much?\n#Person2#: I feel itchy! I can't stand it anymore! I think I may be coming down with something. I feel lightheaded and weak.\n#Person1#: Let me have a look. Whoa! Get away from me!\n#Person2#: What's wrong?\n#Person1#: I think you have chicken pox! You are contagious! Get away! Don't breathe on me!\n#Person2#: Maybe it's just a rash or an allergy! We can't be sure until I see a doctor.\n#Person1#: Well in the meantime you are a biohazard! I didn't get it when I was a kid and I've heard that you can even die if you get it as an adult!\n#Person2#: Are you serious? You always blow things out of proportion. In any case, I think I'll go take an oatmeal bath.  Summary:",
+        "human_summary": "#Person2# feels itchy. #Person1# doubts it is chicken pox and asks #Person2# to get away. #Person2# doesn't believe it.",
+        "model_output_base": "Person1 is scratching so much that he can't stand it anymore.",
+        "model_output_finetuning": "You are a biohazard."
+    },
+    {
+        "index": 19,
+        "prompt": "Summarize the following dialogue  #Person1#: What's wrong with you? Why are you scratching so much?\n#Person2#: I feel itchy! I can't stand it anymore! I think I may be coming down with something. I feel lightheaded and weak.\n#Person1#: Let me have a look. Whoa! Get away from me!\n#Person2#: What's wrong?\n#Person1#: I think you have chicken pox! You are contagious! Get away! Don't breathe on me!\n#Person2#: Maybe it's just a rash or an allergy! We can't be sure until I see a doctor.\n#Person1#: Well in the meantime you are a biohazard! I didn't get it when I was a kid and I've heard that you can even die if you get it as an adult!\n#Person2#: Are you serious? You always blow things out of proportion. In any case, I think I'll go take an oatmeal bath.  Summary:",
+        "human_summary": "#Person1# suspects that #Person2# has chicken pox and wants to keep away from #Person2#. #Person2# thinks #Person1# is exaggerating.",
+        "model_output_base": "Person1 is scratching so much that he can't stand it anymore.",
+        "model_output_finetuning": "You are a biohazard."
+    },
+    {
+        "index": 20,
+        "prompt": "Summarize the following dialogue  #Person1#: What's wrong with you? Why are you scratching so much?\n#Person2#: I feel itchy! I can't stand it anymore! I think I may be coming down with something. I feel lightheaded and weak.\n#Person1#: Let me have a look. Whoa! Get away from me!\n#Person2#: What's wrong?\n#Person1#: I think you have chicken pox! You are contagious! Get away! Don't breathe on me!\n#Person2#: Maybe it's just a rash or an allergy! We can't be sure until I see a doctor.\n#Person1#: Well in the meantime you are a biohazard! I didn't get it when I was a kid and I've heard that you can even die if you get it as an adult!\n#Person2#: Are you serious? You always blow things out of proportion. In any case, I think I'll go take an oatmeal bath.  Summary:",
+        "human_summary": "#Person1# thinks #Person2# has chicken pox and warns #Person2# about the possible hazards but #Person2# thinks it will be fine.",
+        "model_output_base": "Person1 is scratching so much that he can't stand it anymore.",
+        "model_output_finetuning": "You are a biohazard."
+    },
+    {
+        "index": 21,
+        "prompt": "Summarize the following dialogue  #Person1#: Good coming. What can I do for you?\n#Person2#: I'm in Room 309. I'm checking out today. Can I have my bill now?\n#Person1#: Certainly. Please wait a moment. Here you are.\n#Person2#: Thanks. Wait... What's this? The 30 dollar for?\n#Person1#: Excuse me... The charge for your laundry service on Nov. 20th.\n#Person2#: But I did't take any laundry service during my stay here. I think you have added someone else's.\n#Person1#: Ummmm...Sorry, would you mind waiting a moment? We check it with the department concerned.\n#Person2#: No. As long as we get this straightened out.\n#Person1#: I'm very sorry. There has been a mistake. We'll correct the bill. Please take a look.\n#Person2#: Okay, here you are.\n#Person1#: Goodbye.  Summary:",
+        "human_summary": "#Person2# is checking out and asks #Person1# for the bill. #Person1# gives #Person2# a wrong bill at first then corrects it.",
+        "model_output_base": "#Person1#: Good morning. I'm in Room 309. I'm checking out today. Can I have your laundry service charge now? #Person1#: Yes. Please wait a moment. Here you are. #Person2#: Ummmm... I'm sorry... I've added someone else's laundry service. #Person1#: Sorry. There has been a mistake. We'll correct the bill.",
+        "model_output_finetuning": "You're in Room 309."
+    },
+    {
+        "index": 22,
+        "prompt": "Summarize the following dialogue  #Person1#: Good coming. What can I do for you?\n#Person2#: I'm in Room 309. I'm checking out today. Can I have my bill now?\n#Person1#: Certainly. Please wait a moment. Here you are.\n#Person2#: Thanks. Wait... What's this? The 30 dollar for?\n#Person1#: Excuse me... The charge for your laundry service on Nov. 20th.\n#Person2#: But I did't take any laundry service during my stay here. I think you have added someone else's.\n#Person1#: Ummmm...Sorry, would you mind waiting a moment? We check it with the department concerned.\n#Person2#: No. As long as we get this straightened out.\n#Person1#: I'm very sorry. There has been a mistake. We'll correct the bill. Please take a look.\n#Person2#: Okay, here you are.\n#Person1#: Goodbye.  Summary:",
+        "human_summary": "#Person1# helps #Person2# correct a mischarged bill on laundry service and helps #Person2# check out.",
+        "model_output_base": "#Person1#: Good morning. I'm in Room 309. I'm checking out today. Can I have your laundry service charge now? #Person1#: Yes. Please wait a moment. Here you are. #Person2#: Ummmm... I'm sorry... I've added someone else's laundry service. #Person1#: Sorry. There has been a mistake. We'll correct the bill.",
+        "model_output_finetuning": "You're in Room 309."
+    },
+    {
+        "index": 23,
+        "prompt": "Summarize the following dialogue  #Person1#: Good coming. What can I do for you?\n#Person2#: I'm in Room 309. I'm checking out today. Can I have my bill now?\n#Person1#: Certainly. Please wait a moment. Here you are.\n#Person2#: Thanks. Wait... What's this? The 30 dollar for?\n#Person1#: Excuse me... The charge for your laundry service on Nov. 20th.\n#Person2#: But I did't take any laundry service during my stay here. I think you have added someone else's.\n#Person1#: Ummmm...Sorry, would you mind waiting a moment? We check it with the department concerned.\n#Person2#: No. As long as we get this straightened out.\n#Person1#: I'm very sorry. There has been a mistake. We'll correct the bill. Please take a look.\n#Person2#: Okay, here you are.\n#Person1#: Goodbye.  Summary:",
+        "human_summary": "#Person2# finds #Person2# being mischarged. #Person1# corrects the bill and #Person2# pays for it.",
+        "model_output_base": "#Person1#: Good morning. I'm in Room 309. I'm checking out today. Can I have your laundry service charge now? #Person1#: Yes. Please wait a moment. Here you are. #Person2#: Ummmm... I'm sorry... I've added someone else's laundry service. #Person1#: Sorry. There has been a mistake. We'll correct the bill.",
+        "model_output_finetuning": "You're in Room 309."
+    },
+    {
+        "index": 24,
+        "prompt": "Summarize the following dialogue  #Person1#: Steven, I need badly your help.\n#Person2#: What's the matter?\n#Person1#: My wife has found that I have an affair with my secretary, and now she is going to divorce me.\n#Person2#: How could you cheat on your wife? You have been married for ten years.\n#Person1#: Yes, I know I'm wrong. But I swear that the affair lasts only for two months. And I still love my wife. I couldn't live without her.\n#Person2#: I will try my best to persuade her to reconsider the divorce. But are you sure that from now on you will be faithful to her forever?\n#Person1#: Yes, I swear.  Summary:",
+        "human_summary": "#Person1# is begging Steven to persuade his wife not to divorce him. Steven agrees.",
+        "model_output_base": "Person1#: I need your help.",
+        "model_output_finetuning": "If Steven is cheating on his wife, Steven needs help from #Person2#. #Person2# swears that the affair lasts only for two months."
+    },
+    {
+        "index": 25,
+        "prompt": "Summarize the following dialogue  #Person1#: Steven, I need badly your help.\n#Person2#: What's the matter?\n#Person1#: My wife has found that I have an affair with my secretary, and now she is going to divorce me.\n#Person2#: How could you cheat on your wife? You have been married for ten years.\n#Person1#: Yes, I know I'm wrong. But I swear that the affair lasts only for two months. And I still love my wife. I couldn't live without her.\n#Person2#: I will try my best to persuade her to reconsider the divorce. But are you sure that from now on you will be faithful to her forever?\n#Person1#: Yes, I swear.  Summary:",
+        "human_summary": "Steve will try to persuade #Person1#'s wife not to divorce #Person1# as #Person1# swears to remain faithful forever.",
+        "model_output_base": "Person1#: I need your help.",
+        "model_output_finetuning": "If Steven is cheating on his wife, Steven needs help from #Person2#. #Person2# swears that the affair lasts only for two months."
+    },
+    {
+        "index": 26,
+        "prompt": "Summarize the following dialogue  #Person1#: Steven, I need badly your help.\n#Person2#: What's the matter?\n#Person1#: My wife has found that I have an affair with my secretary, and now she is going to divorce me.\n#Person2#: How could you cheat on your wife? You have been married for ten years.\n#Person1#: Yes, I know I'm wrong. But I swear that the affair lasts only for two months. And I still love my wife. I couldn't live without her.\n#Person2#: I will try my best to persuade her to reconsider the divorce. But are you sure that from now on you will be faithful to her forever?\n#Person1#: Yes, I swear.  Summary:",
+        "human_summary": "#Person1# begs Steven's to persuade #Person1#'s wife not to divorce him, and Steven agrees.",
+        "model_output_base": "Person1#: I need your help.",
+        "model_output_finetuning": "If Steven is cheating on his wife, Steven needs help from #Person2#. #Person2# swears that the affair lasts only for two months."
+    },
+    {
+        "index": 27,
+        "prompt": "Summarize the following dialogue  #Person1#: Who stands out in your mind as a man or woman of sound character?\n#Person2#: If I think of famous people, I think of Abraham Lincoln.\n#Person1#: He's the US president, who walked five miles just to give a lady her change, isn't he?\n#Person2#: That's the one. He also was famous for never giving up on his goals.\n#Person1#: That's right. He ran for office quite a few times before he was finally elected.\n#Person2#: And I also admire him for his courage in fighting for equal rights.\n#Person1#: He had great vision, didn't he?\n#Person2#: And humility. I would have liked to meet him personally.  Summary:",
+        "human_summary": "#Person1# and #Person2# are talking about Abraham Lincoln. They think he was a noble man.",
+        "model_output_base": "#Person1#: Abraham Lincoln is a famous person. #Person2#: He was famous for his courage in fighting for equal rights. #Person1#: He had great vision, didn't he? #Person2#: He had great humility.",
+        "model_output_finetuning": "If you think of famous people, you think of Abraham Lincoln."
+    },
+    {
+        "index": 28,
+        "prompt": "Summarize the following dialogue  #Person1#: Who stands out in your mind as a man or woman of sound character?\n#Person2#: If I think of famous people, I think of Abraham Lincoln.\n#Person1#: He's the US president, who walked five miles just to give a lady her change, isn't he?\n#Person2#: That's the one. He also was famous for never giving up on his goals.\n#Person1#: That's right. He ran for office quite a few times before he was finally elected.\n#Person2#: And I also admire him for his courage in fighting for equal rights.\n#Person1#: He had great vision, didn't he?\n#Person2#: And humility. I would have liked to meet him personally.  Summary:",
+        "human_summary": "#Person2# admires Abraham Lincoln for his perseverance, courage and humility.",
+        "model_output_base": "#Person1#: Abraham Lincoln is a famous person. #Person2#: He was famous for his courage in fighting for equal rights. #Person1#: He had great vision, didn't he? #Person2#: He had great humility.",
+        "model_output_finetuning": "If you think of famous people, you think of Abraham Lincoln."
+    },
+    {
+        "index": 29,
+        "prompt": "Summarize the following dialogue  #Person1#: Who stands out in your mind as a man or woman of sound character?\n#Person2#: If I think of famous people, I think of Abraham Lincoln.\n#Person1#: He's the US president, who walked five miles just to give a lady her change, isn't he?\n#Person2#: That's the one. He also was famous for never giving up on his goals.\n#Person1#: That's right. He ran for office quite a few times before he was finally elected.\n#Person2#: And I also admire him for his courage in fighting for equal rights.\n#Person1#: He had great vision, didn't he?\n#Person2#: And humility. I would have liked to meet him personally.  Summary:",
+        "human_summary": "#Person1# and #Person2# talk about Abraham Lincoln and his glorious history. They both admire him.",
+        "model_output_base": "#Person1#: Abraham Lincoln is a famous person. #Person2#: He was famous for his courage in fighting for equal rights. #Person1#: He had great vision, didn't he? #Person2#: He had great humility.",
+        "model_output_finetuning": "If you think of famous people, you think of Abraham Lincoln."
+    },
+    {
+        "index": 30,
+        "prompt": "Summarize the following dialogue  #Person1#: Where are you going for your trip?\n#Person2#: I think Hebei is a good place.\n#Person1#: But I heard the north of China are experiencing severe sandstorms!\n#Person2#: Really?\n#Person1#: Yes, it's said that Hebes was experiencing six degree strong winds.\n#Person2#: How do these storms affect the people who live in these areas?\n#Person1#: The report said the number of people with respiratory tract infections tended to rise after sandstorms. The sand gets into people's noses and throats and creates irritation.\n#Person2#: It sounds that sandstorms are trouble for everybody!\n#Person1#: You are quite right.  Summary:",
+        "human_summary": "#Person2# plans to have a trip in Hebei but #Person1# says there are sandstorms in there.",
+        "model_output_base": "The north of China is experiencing severe sandstorms.",
+        "model_output_finetuning": "You are going for your trip to Hebei. #Person1# thinks Hebei is a good place. #Person2# thinks Hebei is a good place. #Person2# thinks Hebes is a good place. #Person2# thinks Hebes is a good place. #Person2# thinks sandstorms are trouble for everybody."
+    },
+    {
+        "index": 31,
+        "prompt": "Summarize the following dialogue  #Person1#: Where are you going for your trip?\n#Person2#: I think Hebei is a good place.\n#Person1#: But I heard the north of China are experiencing severe sandstorms!\n#Person2#: Really?\n#Person1#: Yes, it's said that Hebes was experiencing six degree strong winds.\n#Person2#: How do these storms affect the people who live in these areas?\n#Person1#: The report said the number of people with respiratory tract infections tended to rise after sandstorms. The sand gets into people's noses and throats and creates irritation.\n#Person2#: It sounds that sandstorms are trouble for everybody!\n#Person1#: You are quite right.  Summary:",
+        "human_summary": "#Person1# tells #Person2# Hebei was experiencing severe sandstorms and sandstorms threaten people's health.",
+        "model_output_base": "The north of China is experiencing severe sandstorms.",
+        "model_output_finetuning": "You are going for your trip to Hebei. #Person1# thinks Hebei is a good place. #Person2# thinks Hebei is a good place. #Person2# thinks Hebes is a good place. #Person2# thinks Hebes is a good place. #Person2# thinks sandstorms are trouble for everybody."
+    },
+    {
+        "index": 32,
+        "prompt": "Summarize the following dialogue  #Person1#: Where are you going for your trip?\n#Person2#: I think Hebei is a good place.\n#Person1#: But I heard the north of China are experiencing severe sandstorms!\n#Person2#: Really?\n#Person1#: Yes, it's said that Hebes was experiencing six degree strong winds.\n#Person2#: How do these storms affect the people who live in these areas?\n#Person1#: The report said the number of people with respiratory tract infections tended to rise after sandstorms. The sand gets into people's noses and throats and creates irritation.\n#Person2#: It sounds that sandstorms are trouble for everybody!\n#Person1#: You are quite right.  Summary:",
+        "human_summary": "#Person2# wants to travel to Hebei but #Person1# informs #Person2# of terrible sandstorms there.",
+        "model_output_base": "The north of China is experiencing severe sandstorms.",
+        "model_output_finetuning": "You are going for your trip to Hebei. #Person1# thinks Hebei is a good place. #Person2# thinks Hebei is a good place. #Person2# thinks Hebes is a good place. #Person2# thinks Hebes is a good place. #Person2# thinks sandstorms are trouble for everybody."
+    },
+    {
+        "index": 33,
+        "prompt": "Summarize the following dialogue  #Person1#: Welcome to my birthday party, I am so happy you can come.\n#Person2#: Thanks for inviting me. Here is the gift for you. Happy birthday, Francis! Many more happy and healthy years for you!\n#Person1#: Thank you, shall I open it now?\n#Person2#: Yes, please do.\n#Person1#: Wow, a remote car model and my favorite brand. I really like it. That is so nice of you.\n#Person2#: Yeah, I was really struggling whether I should give you this nice little car. It was the last one they had and I really like it so much myself.\n#Person1#: Typical you, always wanting to keep the best things for yourself. The more I appreciate the gift now.  Summary:",
+        "human_summary": "#Person2# comes to the birthday party of Francis and sends him a remote car model.",
+        "model_output_base": "Francis is celebrating his birthday.",
+        "model_output_finetuning": "You're celebrating Francis' birthday."
+    },
+    {
+        "index": 34,
+        "prompt": "Summarize the following dialogue  #Person1#: Welcome to my birthday party, I am so happy you can come.\n#Person2#: Thanks for inviting me. Here is the gift for you. Happy birthday, Francis! Many more happy and healthy years for you!\n#Person1#: Thank you, shall I open it now?\n#Person2#: Yes, please do.\n#Person1#: Wow, a remote car model and my favorite brand. I really like it. That is so nice of you.\n#Person2#: Yeah, I was really struggling whether I should give you this nice little car. It was the last one they had and I really like it so much myself.\n#Person1#: Typical you, always wanting to keep the best things for yourself. The more I appreciate the gift now.  Summary:",
+        "human_summary": "#Person2# gives Francis a car model that both of them love as a birthday gift.",
+        "model_output_base": "Francis is celebrating his birthday.",
+        "model_output_finetuning": "You're celebrating Francis' birthday."
+    },
+    {
+        "index": 35,
+        "prompt": "Summarize the following dialogue  #Person1#: Welcome to my birthday party, I am so happy you can come.\n#Person2#: Thanks for inviting me. Here is the gift for you. Happy birthday, Francis! Many more happy and healthy years for you!\n#Person1#: Thank you, shall I open it now?\n#Person2#: Yes, please do.\n#Person1#: Wow, a remote car model and my favorite brand. I really like it. That is so nice of you.\n#Person2#: Yeah, I was really struggling whether I should give you this nice little car. It was the last one they had and I really like it so much myself.\n#Person1#: Typical you, always wanting to keep the best things for yourself. The more I appreciate the gift now.  Summary:",
+        "human_summary": "#Person2# gives Francis a nice car model as a birthday gift and Francis appreciates it.",
+        "model_output_base": "Francis is celebrating his birthday.",
+        "model_output_finetuning": "You're celebrating Francis' birthday."
+    },
+    {
+        "index": 36,
+        "prompt": "Summarize the following dialogue  #Person1#: Hi, Tony. You look unhappy. What's wrong?\n#Person2#: Oh, Steven, I made a big mistake.\n#Person1#: What happened?\n#Person2#: I really wish I hadn't done it.\n#Person1#: What on earth are you talking about?\n#Person2#: I got caught cheating. I feel so ashamed. The teacher saw me and told me I failed.\n#Person1#: What were you thinking?\n#Person2#: You know my father. If I fail, he'll kill me. I have to do well.\n#Person1#: But what you should do is study hard.\n#Person2#: I know. . . I know. . . it's all my fault. I feel awful that I didn't study, and I cheated, and I got caught.\n#Person1#: So long as you learn from your mistakes.  Summary:",
+        "human_summary": "Tony got caught cheating and feels ashamed. Steven tells him to learn from it and study hard.",
+        "model_output_base": "Person1: Hi, Steven.",
+        "model_output_finetuning": "You look unhappy. What's wrong? #Person2# got caught cheating. #Person2# wants to do well. #Person2# wants to study hard. #Person2# wants to learn from his mistakes."
+    },
+    {
+        "index": 37,
+        "prompt": "Summarize the following dialogue  #Person1#: Hi, Tony. You look unhappy. What's wrong?\n#Person2#: Oh, Steven, I made a big mistake.\n#Person1#: What happened?\n#Person2#: I really wish I hadn't done it.\n#Person1#: What on earth are you talking about?\n#Person2#: I got caught cheating. I feel so ashamed. The teacher saw me and told me I failed.\n#Person1#: What were you thinking?\n#Person2#: You know my father. If I fail, he'll kill me. I have to do well.\n#Person1#: But what you should do is study hard.\n#Person2#: I know. . . I know. . . it's all my fault. I feel awful that I didn't study, and I cheated, and I got caught.\n#Person1#: So long as you learn from your mistakes.  Summary:",
+        "human_summary": "Tony tells Steven that he failed a class because of cheating and he feels awful.",
+        "model_output_base": "Person1: Hi, Steven.",
+        "model_output_finetuning": "You look unhappy. What's wrong? #Person2# got caught cheating. #Person2# wants to do well. #Person2# wants to study hard. #Person2# wants to learn from his mistakes."
+    },
+    {
+        "index": 38,
+        "prompt": "Summarize the following dialogue  #Person1#: Hi, Tony. You look unhappy. What's wrong?\n#Person2#: Oh, Steven, I made a big mistake.\n#Person1#: What happened?\n#Person2#: I really wish I hadn't done it.\n#Person1#: What on earth are you talking about?\n#Person2#: I got caught cheating. I feel so ashamed. The teacher saw me and told me I failed.\n#Person1#: What were you thinking?\n#Person2#: You know my father. If I fail, he'll kill me. I have to do well.\n#Person1#: But what you should do is study hard.\n#Person2#: I know. . . I know. . . it's all my fault. I feel awful that I didn't study, and I cheated, and I got caught.\n#Person1#: So long as you learn from your mistakes.  Summary:",
+        "human_summary": "Tony tells Steven that he cheated on the exam and realized his mistake.",
+        "model_output_base": "Person1: Hi, Steven.",
+        "model_output_finetuning": "You look unhappy. What's wrong? #Person2# got caught cheating. #Person2# wants to do well. #Person2# wants to study hard. #Person2# wants to learn from his mistakes."
+    },
+    {
+        "index": 39,
+        "prompt": "Summarize the following dialogue  #Person1#: What time is it, Tom?\n#Person2#: Just a minute. It's ten to nine by my watch.\n#Person1#: Is it? I had no idea it was so late. I must be off now.\n#Person2#: What's the hurry?\n#Person1#: I must catch the nine-thirty train.\n#Person2#: You've plenty of time yet. The railway station is very close. It won't take more than twenty minutes to get there.  Summary:",
+        "human_summary": "#Person1# is catching a train. Tom asks #Person1# not to hurry.",
+        "model_output_base": "The train is about to leave Tom's place.",
+        "model_output_finetuning": "It's ten to nine by Tom's watch."
+    },
+    {
+        "index": 40,
+        "prompt": "Summarize the following dialogue  #Person1#: What time is it, Tom?\n#Person2#: Just a minute. It's ten to nine by my watch.\n#Person1#: Is it? I had no idea it was so late. I must be off now.\n#Person2#: What's the hurry?\n#Person1#: I must catch the nine-thirty train.\n#Person2#: You've plenty of time yet. The railway station is very close. It won't take more than twenty minutes to get there.  Summary:",
+        "human_summary": "#Person1# is in a hurry to catch a train. Tom tells #Person1# there is plenty of time.",
+        "model_output_base": "The train is about to leave Tom's place.",
+        "model_output_finetuning": "It's ten to nine by Tom's watch."
+    },
+    {
+        "index": 41,
+        "prompt": "Summarize the following dialogue  #Person1#: What time is it, Tom?\n#Person2#: Just a minute. It's ten to nine by my watch.\n#Person1#: Is it? I had no idea it was so late. I must be off now.\n#Person2#: What's the hurry?\n#Person1#: I must catch the nine-thirty train.\n#Person2#: You've plenty of time yet. The railway station is very close. It won't take more than twenty minutes to get there.  Summary:",
+        "human_summary": "#Person1# is rushing to catch a train but Tom thinks it isn't necessary.",
+        "model_output_base": "The train is about to leave Tom's place.",
+        "model_output_finetuning": "It's ten to nine by Tom's watch."
+    },
+    {
+        "index": 42,
+        "prompt": "Summarize the following dialogue  #Person1#: I don't know how to adjust my life. Would you give me a piece of advice?\n#Person2#: You look a bit pale, don't you?\n#Person1#: Yes, I can't sleep well every night.\n#Person2#: You should get plenty of sleep.\n#Person1#: I drink a lot of wine.\n#Person2#: If I were you, I wouldn't drink too much.\n#Person1#: I often feel so tired.\n#Person2#: You better do some exercise every morning.\n#Person1#: I sometimes find the shadow of death in front of me.\n#Person2#: Why do you worry about your future? You're very young, and you'll make great contribution to the world. I hope you take my advice.  Summary:",
+        "human_summary": "#Person1# wants to adjust #Person1#'s life and #Person2# suggests #Person1# be positive and stay healthy.",
+        "model_output_base": "Person1 is worried about his future.",
+        "model_output_finetuning": "You should get plenty of sleep. #Person1# can't sleep well every night. #Person1# is pale and can't sleep well. #Person1# is worried about his future. #Person1# is young and wants to make great contribution to the world. #Person1# is worried about his future."
+    },
+    {
+        "index": 43,
+        "prompt": "Summarize the following dialogue  #Person1#: I don't know how to adjust my life. Would you give me a piece of advice?\n#Person2#: You look a bit pale, don't you?\n#Person1#: Yes, I can't sleep well every night.\n#Person2#: You should get plenty of sleep.\n#Person1#: I drink a lot of wine.\n#Person2#: If I were you, I wouldn't drink too much.\n#Person1#: I often feel so tired.\n#Person2#: You better do some exercise every morning.\n#Person1#: I sometimes find the shadow of death in front of me.\n#Person2#: Why do you worry about your future? You're very young, and you'll make great contribution to the world. I hope you take my advice.  Summary:",
+        "human_summary": "#Person1# has a bad lifestyle. #Person2# kindly advises #Person1# to be positive.",
+        "model_output_base": "Person1 is worried about his future.",
+        "model_output_finetuning": "You should get plenty of sleep. #Person1# can't sleep well every night. #Person1# is pale and can't sleep well. #Person1# is worried about his future. #Person1# is young and wants to make great contribution to the world. #Person1# is worried about his future."
+    },
+    {
+        "index": 44,
+        "prompt": "Summarize the following dialogue  #Person1#: I don't know how to adjust my life. Would you give me a piece of advice?\n#Person2#: You look a bit pale, don't you?\n#Person1#: Yes, I can't sleep well every night.\n#Person2#: You should get plenty of sleep.\n#Person1#: I drink a lot of wine.\n#Person2#: If I were you, I wouldn't drink too much.\n#Person1#: I often feel so tired.\n#Person2#: You better do some exercise every morning.\n#Person1#: I sometimes find the shadow of death in front of me.\n#Person2#: Why do you worry about your future? You're very young, and you'll make great contribution to the world. I hope you take my advice.  Summary:",
+        "human_summary": "#Person2# hopes #Person1# will become healthy and positive.",
+        "model_output_base": "Person1 is worried about his future.",
+        "model_output_finetuning": "You should get plenty of sleep. #Person1# can't sleep well every night. #Person1# is pale and can't sleep well. #Person1# is worried about his future. #Person1# is young and wants to make great contribution to the world. #Person1# is worried about his future."
+    },
+    {
+        "index": 45,
+        "prompt": "Summarize the following dialogue  #Person1#: Would you like to go to the party tonight?\n#Person2#: Whose party?\n#Person1#: Ruojia's. Don't you know that? Ruojia has got married.\n#Person2#: What! Is she really? I can't believe it!\n#Person1#: Yes. Yesterday.\n#Person2#: Good gracious. That's incredible! I feel so happy for her!\n#Person1#: Yes, me too.\n#Person2#: But how do you know that?\n#Person1#: I saw the news from her twitter. And she sent an email about it.\n#Person2#: What? I didn't receive it!\n#Person1#: Maybe you should check your email.\n#Person2#: Oh yes, I find it. Tonight at her home. Will you bring something?\n#Person1#: Yes, a pair of wineglasses and a card to wish her happy marriage.\n#Person2#: I will buy a tea set.  Summary:",
+        "human_summary": "#Person1# tells #Person2# that Ruojia is married and will have a party tonight. #Person2#'s surprised to know that. They will bring their gifts to bless her.",
+        "model_output_base": "Ruojia got married yesterday.",
+        "model_output_finetuning": "You can go to Ruojia's party tonight."
+    },
+    {
+        "index": 46,
+        "prompt": "Summarize the following dialogue  #Person1#: Would you like to go to the party tonight?\n#Person2#: Whose party?\n#Person1#: Ruojia's. Don't you know that? Ruojia has got married.\n#Person2#: What! Is she really? I can't believe it!\n#Person1#: Yes. Yesterday.\n#Person2#: Good gracious. That's incredible! I feel so happy for her!\n#Person1#: Yes, me too.\n#Person2#: But how do you know that?\n#Person1#: I saw the news from her twitter. And she sent an email about it.\n#Person2#: What? I didn't receive it!\n#Person1#: Maybe you should check your email.\n#Person2#: Oh yes, I find it. Tonight at her home. Will you bring something?\n#Person1#: Yes, a pair of wineglasses and a card to wish her happy marriage.\n#Person2#: I will buy a tea set.  Summary:",
+        "human_summary": "#Person2# is surprised to know from #Person1# that Ruojia is married. Then #Person2# finds Ruojia has sent an email about it. They will go to Ruojia's party and give their presents to her.",
+        "model_output_base": "Ruojia got married yesterday.",
+        "model_output_finetuning": "You can go to Ruojia's party tonight."
+    },
+    {
+        "index": 47,
+        "prompt": "Summarize the following dialogue  #Person1#: Would you like to go to the party tonight?\n#Person2#: Whose party?\n#Person1#: Ruojia's. Don't you know that? Ruojia has got married.\n#Person2#: What! Is she really? I can't believe it!\n#Person1#: Yes. Yesterday.\n#Person2#: Good gracious. That's incredible! I feel so happy for her!\n#Person1#: Yes, me too.\n#Person2#: But how do you know that?\n#Person1#: I saw the news from her twitter. And she sent an email about it.\n#Person2#: What? I didn't receive it!\n#Person1#: Maybe you should check your email.\n#Person2#: Oh yes, I find it. Tonight at her home. Will you bring something?\n#Person1#: Yes, a pair of wineglasses and a card to wish her happy marriage.\n#Person2#: I will buy a tea set.  Summary:",
+        "human_summary": "#Person2# is surprised that Ruojia's married. #Person1# and #Person2# will go to her party and give their presents to wish her a happy marriage.",
+        "model_output_base": "Ruojia got married yesterday.",
+        "model_output_finetuning": "You can go to Ruojia's party tonight."
+    },
+    {
+        "index": 48,
+        "prompt": "Summarize the following dialogue  #Person1#: Yeah. Just pull on this strip. Then peel off the back.\n#Person2#: You might make a few enemies this way.\n#Person1#: If they don't think this is fun, they're not meant to be our friends.\n#Person2#: You mean your friends. I think it's cruel.\n#Person1#: Yeah. But it's fun. Look at those two ugly old ladies. . . or are they men?\n#Person2#: Hurry! Get a shot!. . . Hand it over!\n#Person1#: I knew you'd come around. . .  Summary:",
+        "human_summary": "#Person2# at first thinks #Person1#'s behaviour cruel but finally joins #Person1#.",
+        "model_output_base": "The two ugly old ladies are a couple.",
+        "model_output_finetuning": "Get a shot!."
+    },
+    {
+        "index": 49,
+        "prompt": "Summarize the following dialogue  #Person1#: Yeah. Just pull on this strip. Then peel off the back.\n#Person2#: You might make a few enemies this way.\n#Person1#: If they don't think this is fun, they're not meant to be our friends.\n#Person2#: You mean your friends. I think it's cruel.\n#Person1#: Yeah. But it's fun. Look at those two ugly old ladies. . . or are they men?\n#Person2#: Hurry! Get a shot!. . . Hand it over!\n#Person1#: I knew you'd come around. . .  Summary:",
+        "human_summary": "#Person1# plans on playing a trick to others. #Person2# thinks it's cruel at first but then joins.",
+        "model_output_base": "The two ugly old ladies are a couple.",
+        "model_output_finetuning": "Get a shot!."
+    },
+    {
+        "index": 50,
+        "prompt": "Summarize the following dialogue  #Person1#: Yeah. Just pull on this strip. Then peel off the back.\n#Person2#: You might make a few enemies this way.\n#Person1#: If they don't think this is fun, they're not meant to be our friends.\n#Person2#: You mean your friends. I think it's cruel.\n#Person1#: Yeah. But it's fun. Look at those two ugly old ladies. . . or are they men?\n#Person2#: Hurry! Get a shot!. . . Hand it over!\n#Person1#: I knew you'd come around. . .  Summary:",
+        "human_summary": "#Person1# is about to make a prank. #Person2# thinks it's cruel at first but then joins.",
+        "model_output_base": "The two ugly old ladies are a couple.",
+        "model_output_finetuning": "Get a shot!."
+    },
+    {
+        "index": 51,
+        "prompt": "Summarize the following dialogue  #Person1#: What does your sister look like, Mike?\n#Person2#: Well, she's tall and pretty.\n#Person1#: Is she like you?\n#Person2#: I suppose so. We're both friendly and easy-going.\n#Person1#: Is she as clever as you?\n#Person2#: No, she's not as clever as me.\n#Person1#: Big head!  Summary:",
+        "human_summary": "Mike is describing his sister to #Person1#.",
+        "model_output_base": "Mike's sister is tall and pretty.",
+        "model_output_finetuning": "The #Person1# is tall and pretty. #Person2# is not as clever as Mike."
+    },
+    {
+        "index": 52,
+        "prompt": "Summarize the following dialogue  #Person1#: What does your sister look like, Mike?\n#Person2#: Well, she's tall and pretty.\n#Person1#: Is she like you?\n#Person2#: I suppose so. We're both friendly and easy-going.\n#Person1#: Is she as clever as you?\n#Person2#: No, she's not as clever as me.\n#Person1#: Big head!  Summary:",
+        "human_summary": "Mike describes to #Person1# his sister's characters and personality.",
+        "model_output_base": "Mike's sister is tall and pretty.",
+        "model_output_finetuning": "The #Person1# is tall and pretty. #Person2# is not as clever as Mike."
+    },
+    {
+        "index": 53,
+        "prompt": "Summarize the following dialogue  #Person1#: What does your sister look like, Mike?\n#Person2#: Well, she's tall and pretty.\n#Person1#: Is she like you?\n#Person2#: I suppose so. We're both friendly and easy-going.\n#Person1#: Is she as clever as you?\n#Person2#: No, she's not as clever as me.\n#Person1#: Big head!  Summary:",
+        "human_summary": "#Person1# asks Mike about his sister.",
+        "model_output_base": "Mike's sister is tall and pretty.",
+        "model_output_finetuning": "The #Person1# is tall and pretty. #Person2# is not as clever as Mike."
+    },
+    {
+        "index": 54,
+        "prompt": "Summarize the following dialogue  #Person1#: Is anybody in?\n#Person2#: How can I help you?\n#Person1#: I have a headache.\n#Person2#: Let me take your temperature with a thermometer.\n#Person1#: OK.\n#Person2#: I think you have a small fever.\n#Person1#: I thought so. I felt dizzy this morning.\n#Person2#: You should've called in sick! Next time, have either of your parents call the school office.  Summary:",
+        "human_summary": "#Person1# feels sick and #Person2# gives #Person1# a check-up.",
+        "model_output_base": "Person1#: I have a headache.",
+        "model_output_finetuning": "Get a thermometer and take your temperature."
+    },
+    {
+        "index": 55,
+        "prompt": "Summarize the following dialogue  #Person1#: Is anybody in?\n#Person2#: How can I help you?\n#Person1#: I have a headache.\n#Person2#: Let me take your temperature with a thermometer.\n#Person1#: OK.\n#Person2#: I think you have a small fever.\n#Person1#: I thought so. I felt dizzy this morning.\n#Person2#: You should've called in sick! Next time, have either of your parents call the school office.  Summary:",
+        "human_summary": "#Person2# finds that #Person1# has a fever and says #Person1# should've called in sick earlier.",
+        "model_output_base": "Person1#: I have a headache.",
+        "model_output_finetuning": "Get a thermometer and take your temperature."
+    },
+    {
+        "index": 56,
+        "prompt": "Summarize the following dialogue  #Person1#: Is anybody in?\n#Person2#: How can I help you?\n#Person1#: I have a headache.\n#Person2#: Let me take your temperature with a thermometer.\n#Person1#: OK.\n#Person2#: I think you have a small fever.\n#Person1#: I thought so. I felt dizzy this morning.\n#Person2#: You should've called in sick! Next time, have either of your parents call the school office.  Summary:",
+        "human_summary": "#Person2# checks #Person1#'s physical condition and finds #Person1# has a fever.",
+        "model_output_base": "Person1#: I have a headache.",
+        "model_output_finetuning": "Get a thermometer and take your temperature."
+    },
+    {
+        "index": 57,
+        "prompt": "Summarize the following dialogue  #Person1#: Can I help you?\n#Person2#: I'd like to buy a new mobile phone please.\n#Person1#: Ok, would you like a phone with camera and MP3 player?\n#Person2#: Yes please. And I'd like to be able to make video calls too.  Summary:",
+        "human_summary": "#Person1# helps #Person2# to choose a new phone.",
+        "model_output_base": "#Person1#: I'd like to buy a new mobile phone. #Person2#: Yes, please.",
+        "model_output_finetuning": "You want to buy a new mobile phone."
+    },
+    {
+        "index": 58,
+        "prompt": "Summarize the following dialogue  #Person1#: Can I help you?\n#Person2#: I'd like to buy a new mobile phone please.\n#Person1#: Ok, would you like a phone with camera and MP3 player?\n#Person2#: Yes please. And I'd like to be able to make video calls too.  Summary:",
+        "human_summary": "#Person2# wants to buy a new mobile phone from #Person1#.",
+        "model_output_base": "#Person1#: I'd like to buy a new mobile phone. #Person2#: Yes, please.",
+        "model_output_finetuning": "You want to buy a new mobile phone."
+    },
+    {
+        "index": 59,
+        "prompt": "Summarize the following dialogue  #Person1#: Can I help you?\n#Person2#: I'd like to buy a new mobile phone please.\n#Person1#: Ok, would you like a phone with camera and MP3 player?\n#Person2#: Yes please. And I'd like to be able to make video calls too.  Summary:",
+        "human_summary": "#Person2# wants to buy a new mobile phone from #Person1#.",
+        "model_output_base": "#Person1#: I'd like to buy a new mobile phone. #Person2#: Yes, please.",
+        "model_output_finetuning": "You want to buy a new mobile phone."
+    },
+    {
+        "index": 60,
+        "prompt": "Summarize the following dialogue  #Person1#: Hey, Frank. I heard you got a new job.\n#Person2#: Yeah, Judy. I will be working for the Post Office. It's not a bad job.\n#Person1#: Is it true that you have a heavy work schedule?\n#Person2#: That's right. I am supposed to work at 5am everyday, and I only get 45 minutes for lunch.\n#Person1#: So, why did you apply for such a demanding job?\n#Person2#: Well, the government offers its employees excellent health insurance benefits.\n#Person1#: Oh, I see. And can your family members utilize the health insurance, too?\n#Person2#: Yeah, that's the best part. All of my children can get free medical care.\n#Person1#: That's a great employment benefit!\n#Person2#: Now you know why I wanted to work for the Post Office!  Summary:",
+        "human_summary": "Frank got a new job and is telling Judy not only the heavy schedule but also the benefits of this job.",
+        "model_output_base": "Judy has a new job.",
+        "model_output_finetuning": "You have a job at the Post Office."
+    },
+    {
+        "index": 61,
+        "prompt": "Summarize the following dialogue  #Person1#: Hey, Frank. I heard you got a new job.\n#Person2#: Yeah, Judy. I will be working for the Post Office. It's not a bad job.\n#Person1#: Is it true that you have a heavy work schedule?\n#Person2#: That's right. I am supposed to work at 5am everyday, and I only get 45 minutes for lunch.\n#Person1#: So, why did you apply for such a demanding job?\n#Person2#: Well, the government offers its employees excellent health insurance benefits.\n#Person1#: Oh, I see. And can your family members utilize the health insurance, too?\n#Person2#: Yeah, that's the best part. All of my children can get free medical care.\n#Person1#: That's a great employment benefit!\n#Person2#: Now you know why I wanted to work for the Post Office!  Summary:",
+        "human_summary": "Frank explains to Judy the reason why he took a job at the Post office is that the government offers excellent health insurance benefits for its employees.",
+        "model_output_base": "Judy has a new job.",
+        "model_output_finetuning": "You have a job at the Post Office."
+    },
+    {
+        "index": 62,
+        "prompt": "Summarize the following dialogue  #Person1#: Hey, Frank. I heard you got a new job.\n#Person2#: Yeah, Judy. I will be working for the Post Office. It's not a bad job.\n#Person1#: Is it true that you have a heavy work schedule?\n#Person2#: That's right. I am supposed to work at 5am everyday, and I only get 45 minutes for lunch.\n#Person1#: So, why did you apply for such a demanding job?\n#Person2#: Well, the government offers its employees excellent health insurance benefits.\n#Person1#: Oh, I see. And can your family members utilize the health insurance, too?\n#Person2#: Yeah, that's the best part. All of my children can get free medical care.\n#Person1#: That's a great employment benefit!\n#Person2#: Now you know why I wanted to work for the Post Office!  Summary:",
+        "human_summary": "Frank describes his new job's schedule and insurance at the Post Office to Judy.",
+        "model_output_base": "Judy has a new job.",
+        "model_output_finetuning": "You have a job at the Post Office."
+    },
+    {
+        "index": 63,
+        "prompt": "Summarize the following dialogue  #Person1#: Do you have any special skills?\n#Person2#: I can write computer programs, I have a good command of secretarial skills.\n#Person1#: What qualifications have you got?\n#Person2#: I have a doctor license and a driving license.\n#Person1#: Do you get special training in office skills?\n#Person2#: I passed both the Cambridge Examinations, First Certificate and the Certificate of Proficiency in English. And studied for a year in London at the Lucas Secretarial College, ending with speeds of 120 words per minute in English shorthand and 50 words per minute in typing. I was also trained in office procedure.\n#Person1#: Please tell me about work you have done, which qualifies you for this job.\n#Person2#: I'Ve received some special training in typing, shorthand and operating a fax machine, etc. . I'm experienced in IBM-PC. I can operate familiarly a word-processor, a fax machine, a photo and other office equipment.  Summary:",
+        "human_summary": "#Person2# is describing the educational background and previous working experience to #Person1# in a job interview.",
+        "model_output_base": "#Person1#: I have a good command of secretarial skills. #Person2#: I have a good command of office skills. #Person1#: I have a good command of secretarial skills. #Person2#: I have a good command of office skills. #Person1#: I have a good command of office skills.",
+        "model_output_finetuning": "You have a good command of secretarial skills."
+    },
+    {
+        "index": 64,
+        "prompt": "Summarize the following dialogue  #Person1#: Do you have any special skills?\n#Person2#: I can write computer programs, I have a good command of secretarial skills.\n#Person1#: What qualifications have you got?\n#Person2#: I have a doctor license and a driving license.\n#Person1#: Do you get special training in office skills?\n#Person2#: I passed both the Cambridge Examinations, First Certificate and the Certificate of Proficiency in English. And studied for a year in London at the Lucas Secretarial College, ending with speeds of 120 words per minute in English shorthand and 50 words per minute in typing. I was also trained in office procedure.\n#Person1#: Please tell me about work you have done, which qualifies you for this job.\n#Person2#: I'Ve received some special training in typing, shorthand and operating a fax machine, etc. . I'm experienced in IBM-PC. I can operate familiarly a word-processor, a fax machine, a photo and other office equipment.  Summary:",
+        "human_summary": "#Person2# is being interviewed by #Person1#. #Person2# is equipped with a bunch of valuable office skills.",
+        "model_output_base": "#Person1#: I have a good command of secretarial skills. #Person2#: I have a good command of office skills. #Person1#: I have a good command of secretarial skills. #Person2#: I have a good command of office skills. #Person1#: I have a good command of office skills.",
+        "model_output_finetuning": "You have a good command of secretarial skills."
+    },
+    {
+        "index": 65,
+        "prompt": "Summarize the following dialogue  #Person1#: Do you have any special skills?\n#Person2#: I can write computer programs, I have a good command of secretarial skills.\n#Person1#: What qualifications have you got?\n#Person2#: I have a doctor license and a driving license.\n#Person1#: Do you get special training in office skills?\n#Person2#: I passed both the Cambridge Examinations, First Certificate and the Certificate of Proficiency in English. And studied for a year in London at the Lucas Secretarial College, ending with speeds of 120 words per minute in English shorthand and 50 words per minute in typing. I was also trained in office procedure.\n#Person1#: Please tell me about work you have done, which qualifies you for this job.\n#Person2#: I'Ve received some special training in typing, shorthand and operating a fax machine, etc. . I'm experienced in IBM-PC. I can operate familiarly a word-processor, a fax machine, a photo and other office equipment.  Summary:",
+        "human_summary": "#Person1# asks about #Person2#'s special skills, training, previous working experience and other qualification for the job.",
+        "model_output_base": "#Person1#: I have a good command of secretarial skills. #Person2#: I have a good command of office skills. #Person1#: I have a good command of secretarial skills. #Person2#: I have a good command of office skills. #Person1#: I have a good command of office skills.",
+        "model_output_finetuning": "You have a good command of secretarial skills."
+    },
+    {
+        "index": 66,
+        "prompt": "Summarize the following dialogue  #Person1#: Excuse me.\n#Person2#: Yes, sir. Can I help you?\n#Person1#: Um, this steak, I asked for to be medium rare.\n#Person2#: Medium rare, that's right, sir. I remember your order.\n#Person1#: Well, I'm afraid it isn't. It's a bit too well done and rather tough. Would you mind changing?\n#Person2#: If it is not to your satisfaction, I'll certainly bring you another. But I'm afraid you may have to wait for a few minutes.\n#Person1#: Yes, that's all right. Thank you very much.  Summary:",
+        "human_summary": "#Person1# is not satisfied with the steak and #Person2# will change it.",
+        "model_output_base": "The steak that Person1 ordered is medium rare.",
+        "model_output_finetuning": "You ordered a medium rare steak. #Person1# asked #Person2# to change the steak. #Person2# will bring another steak."
+    },
+    {
+        "index": 67,
+        "prompt": "Summarize the following dialogue  #Person1#: Excuse me.\n#Person2#: Yes, sir. Can I help you?\n#Person1#: Um, this steak, I asked for to be medium rare.\n#Person2#: Medium rare, that's right, sir. I remember your order.\n#Person1#: Well, I'm afraid it isn't. It's a bit too well done and rather tough. Would you mind changing?\n#Person2#: If it is not to your satisfaction, I'll certainly bring you another. But I'm afraid you may have to wait for a few minutes.\n#Person1#: Yes, that's all right. Thank you very much.  Summary:",
+        "human_summary": "#Person2# will change a steak for #Person1# as that one doesn't satisfy #Person1#.",
+        "model_output_base": "The steak that Person1 ordered is medium rare.",
+        "model_output_finetuning": "You ordered a medium rare steak. #Person1# asked #Person2# to change the steak. #Person2# will bring another steak."
+    },
+    {
+        "index": 68,
+        "prompt": "Summarize the following dialogue  #Person1#: Excuse me.\n#Person2#: Yes, sir. Can I help you?\n#Person1#: Um, this steak, I asked for to be medium rare.\n#Person2#: Medium rare, that's right, sir. I remember your order.\n#Person1#: Well, I'm afraid it isn't. It's a bit too well done and rather tough. Would you mind changing?\n#Person2#: If it is not to your satisfaction, I'll certainly bring you another. But I'm afraid you may have to wait for a few minutes.\n#Person1#: Yes, that's all right. Thank you very much.  Summary:",
+        "human_summary": "#Person1# is not satisfied with #Person1#'s steak and asks to change one, and #Person2# agrees.",
+        "model_output_base": "The steak that Person1 ordered is medium rare.",
+        "model_output_finetuning": "You ordered a medium rare steak. #Person1# asked #Person2# to change the steak. #Person2# will bring another steak."
+    },
+    {
+        "index": 69,
+        "prompt": "Summarize the following dialogue  #Person1#: Tom, I've got good news for you.\n#Person2#: What is it?\n#Person1#: Haven't you heard that your novel has won The Nobel Prize?\n#Person2#: Really? I can't believe it. It's like a dream come true. I never expected that I would win The Nobel Prize!\n#Person1#: You did a good job. I'm extremely proud of you.\n#Person2#: Thanks for the compliment.\n#Person1#: You certainly deserve it. Let's celebrate!  Summary:",
+        "human_summary": "#Person1# congratulates Tom for achieving the Nobel Prize.",
+        "model_output_base": "Tom's novel has won the Nobel Prize.",
+        "model_output_finetuning": "You have won The Nobel Prize."
+    },
+    {
+        "index": 70,
+        "prompt": "Summarize the following dialogue  #Person1#: Tom, I've got good news for you.\n#Person2#: What is it?\n#Person1#: Haven't you heard that your novel has won The Nobel Prize?\n#Person2#: Really? I can't believe it. It's like a dream come true. I never expected that I would win The Nobel Prize!\n#Person1#: You did a good job. I'm extremely proud of you.\n#Person2#: Thanks for the compliment.\n#Person1#: You certainly deserve it. Let's celebrate!  Summary:",
+        "human_summary": "#Person1# tells Tom that his novel has won the Nobel Prize.",
+        "model_output_base": "Tom's novel has won the Nobel Prize.",
+        "model_output_finetuning": "You have won The Nobel Prize."
+    },
+    {
+        "index": 71,
+        "prompt": "Summarize the following dialogue  #Person1#: Tom, I've got good news for you.\n#Person2#: What is it?\n#Person1#: Haven't you heard that your novel has won The Nobel Prize?\n#Person2#: Really? I can't believe it. It's like a dream come true. I never expected that I would win The Nobel Prize!\n#Person1#: You did a good job. I'm extremely proud of you.\n#Person2#: Thanks for the compliment.\n#Person1#: You certainly deserve it. Let's celebrate!  Summary:",
+        "human_summary": "#Person2# tells Tom he won the Nobel Prize.",
+        "model_output_base": "Tom's novel has won the Nobel Prize.",
+        "model_output_finetuning": "You have won The Nobel Prize."
+    },
+    {
+        "index": 72,
+        "prompt": "Summarize the following dialogue  #Person1#: What makes you think you are able to do the job?\n#Person2#: My major is Automobile Designing and I have received my master's degree in science. I think I can do it well.\n#Person1#: What kind of work were you responsible for in the past employment?\n#Person2#: I am a student engineer who mainly took charge of understanding of the mechanical strength and corrosion resistance of various materials.  Summary:",
+        "human_summary": "#Person1# is interviewing #Person2# about #Person2#'s ability and previous experience.",
+        "model_output_base": "The job title of the person who is applying for the position is \"Alumni\" or \"Alumni\" and the job title of the person who is applying for the position is \"Alumni\" or \"Alumni\" and the job title is \"Alumni\" or \"Alumni\" and the job title is \"Alumni\" or \"Alumni\" and the job title is \"Alumni\" or \"Alumni\" and the job title is \"Alumni\" or \"Alumni\" and the job title is \"Alumni\" or \"Alumni\" and the job title is \"Alumni\" or \"Alumni\" and the job title is \"Alumni\" or \"Alumni\" and the job title is \"Alumni\" or \"Alumni\" and the job",
+        "model_output_finetuning": "This is a good job for #Person2#. #Person2# is a student engineer who took charge of understanding of mechanical strength and corrosion resistance of various materials."
+    },
+    {
+        "index": 73,
+        "prompt": "Summarize the following dialogue  #Person1#: What makes you think you are able to do the job?\n#Person2#: My major is Automobile Designing and I have received my master's degree in science. I think I can do it well.\n#Person1#: What kind of work were you responsible for in the past employment?\n#Person2#: I am a student engineer who mainly took charge of understanding of the mechanical strength and corrosion resistance of various materials.  Summary:",
+        "human_summary": "#Person1# asks #Person2# about #Person2#'s capacities and past working experience during an interview.",
+        "model_output_base": "The job title of the person who is applying for the position is \"Alumni\" or \"Alumni\" and the job title of the person who is applying for the position is \"Alumni\" or \"Alumni\" and the job title is \"Alumni\" or \"Alumni\" and the job title is \"Alumni\" or \"Alumni\" and the job title is \"Alumni\" or \"Alumni\" and the job title is \"Alumni\" or \"Alumni\" and the job title is \"Alumni\" or \"Alumni\" and the job title is \"Alumni\" or \"Alumni\" and the job title is \"Alumni\" or \"Alumni\" and the job title is \"Alumni\" or \"Alumni\" and the job",
+        "model_output_finetuning": "This is a good job for #Person2#. #Person2# is a student engineer who took charge of understanding of mechanical strength and corrosion resistance of various materials."
+    },
+    {
+        "index": 74,
+        "prompt": "Summarize the following dialogue  #Person1#: What makes you think you are able to do the job?\n#Person2#: My major is Automobile Designing and I have received my master's degree in science. I think I can do it well.\n#Person1#: What kind of work were you responsible for in the past employment?\n#Person2#: I am a student engineer who mainly took charge of understanding of the mechanical strength and corrosion resistance of various materials.  Summary:",
+        "human_summary": "#Person1# asks #Person2# about #Person2#'s qualification for the job.",
+        "model_output_base": "The job title of the person who is applying for the position is \"Alumni\" or \"Alumni\" and the job title of the person who is applying for the position is \"Alumni\" or \"Alumni\" and the job title is \"Alumni\" or \"Alumni\" and the job title is \"Alumni\" or \"Alumni\" and the job title is \"Alumni\" or \"Alumni\" and the job title is \"Alumni\" or \"Alumni\" and the job title is \"Alumni\" or \"Alumni\" and the job title is \"Alumni\" or \"Alumni\" and the job title is \"Alumni\" or \"Alumni\" and the job title is \"Alumni\" or \"Alumni\" and the job",
+        "model_output_finetuning": "This is a good job for #Person2#. #Person2# is a student engineer who took charge of understanding of mechanical strength and corrosion resistance of various materials."
+    },
+    {
+        "index": 75,
+        "prompt": "Summarize the following dialogue  #Person1#: Do you drink much?\n#Person2#: Depending on what you consider a lot.\n#Person1#: How frequently do you drink?\n#Person2#: Couple times a week. How about you?\n#Person1#: Only when I go out. I'm not a big drinker.\n#Person2#: How much can you drink?\n#Person1#: I usually only have 2 beers.\n#Person2#: You're a light weight.\n#Person1#: How much can you drink?\n#Person2#: I'm usually drinking all night long. At least 10 drinks.\n#Person1#: Don't you spend a lot of money then?\n#Person2#: No. We usually go to places that have specials. Dante's over on the Ave has $ 5. 00 pitchers on Mondays. So for ten, fifteen bucks, I can get a lot of drinks.\n#Person1#: That's true.\n#Person2#: If you don't like beer, have you tried mixed drinks? Some of them are pretty good.\n#Person1#: I like beer, it's just that I get a headache when I drink more than 3.\n#Person2#: You just have to build up a tolerance. I used to be like that. But your body gets used to it.\n#Person1#: It'll take awhile, but I'm working on it.\n#Person2#: Hey let's go out tomorrow night. The Ram Bar and Grill is having a special on pitchers.\n#Person1#: Alright.  Summary:",
+        "human_summary": "#Person1# and #Person2# are talking about some personal facts of drinking. #Person2# drinks a lot, while #Person1# cannot drink much for health reasons. They decide to have a drink together tomorrow night.",
+        "model_output_base": "Person1 is drinking a lot of beer.",
+        "model_output_finetuning": "You can drink a lot of beer."
+    },
+    {
+        "index": 76,
+        "prompt": "Summarize the following dialogue  #Person1#: Do you drink much?\n#Person2#: Depending on what you consider a lot.\n#Person1#: How frequently do you drink?\n#Person2#: Couple times a week. How about you?\n#Person1#: Only when I go out. I'm not a big drinker.\n#Person2#: How much can you drink?\n#Person1#: I usually only have 2 beers.\n#Person2#: You're a light weight.\n#Person1#: How much can you drink?\n#Person2#: I'm usually drinking all night long. At least 10 drinks.\n#Person1#: Don't you spend a lot of money then?\n#Person2#: No. We usually go to places that have specials. Dante's over on the Ave has $ 5. 00 pitchers on Mondays. So for ten, fifteen bucks, I can get a lot of drinks.\n#Person1#: That's true.\n#Person2#: If you don't like beer, have you tried mixed drinks? Some of them are pretty good.\n#Person1#: I like beer, it's just that I get a headache when I drink more than 3.\n#Person2#: You just have to build up a tolerance. I used to be like that. But your body gets used to it.\n#Person1#: It'll take awhile, but I'm working on it.\n#Person2#: Hey let's go out tomorrow night. The Ram Bar and Grill is having a special on pitchers.\n#Person1#: Alright.  Summary:",
+        "human_summary": "#Person2#, a heavy drinker, invites #Person1#, a light drinker to go out the next day. #Person2# chooses a place that has a special on pitchers.",
+        "model_output_base": "Person1 is drinking a lot of beer.",
+        "model_output_finetuning": "You can drink a lot of beer."
+    },
+    {
+        "index": 77,
+        "prompt": "Summarize the following dialogue  #Person1#: Do you drink much?\n#Person2#: Depending on what you consider a lot.\n#Person1#: How frequently do you drink?\n#Person2#: Couple times a week. How about you?\n#Person1#: Only when I go out. I'm not a big drinker.\n#Person2#: How much can you drink?\n#Person1#: I usually only have 2 beers.\n#Person2#: You're a light weight.\n#Person1#: How much can you drink?\n#Person2#: I'm usually drinking all night long. At least 10 drinks.\n#Person1#: Don't you spend a lot of money then?\n#Person2#: No. We usually go to places that have specials. Dante's over on the Ave has $ 5. 00 pitchers on Mondays. So for ten, fifteen bucks, I can get a lot of drinks.\n#Person1#: That's true.\n#Person2#: If you don't like beer, have you tried mixed drinks? Some of them are pretty good.\n#Person1#: I like beer, it's just that I get a headache when I drink more than 3.\n#Person2#: You just have to build up a tolerance. I used to be like that. But your body gets used to it.\n#Person1#: It'll take awhile, but I'm working on it.\n#Person2#: Hey let's go out tomorrow night. The Ram Bar and Grill is having a special on pitchers.\n#Person1#: Alright.  Summary:",
+        "human_summary": "#Person1# and #Person2# talk about their drinking capacity and their drinking habits. They decide to have a drink together tomorrow night.",
+        "model_output_base": "Person1 is drinking a lot of beer.",
+        "model_output_finetuning": "You can drink a lot of beer."
+    },
+    {
+        "index": 78,
+        "prompt": "Summarize the following dialogue  #Person1#: May, do you mind helping me prepare for the picnic?\n#Person2#: Sure. Have you checked the weather report?\n#Person1#: Yes. It says it will be sunny all day. No sign of rain at all. This is your father's favorite sausage. Sandwiches for you and Daniel.\n#Person2#: No, thanks Mom. I'd like some toast and chicken wings.\n#Person1#: Okay. Please take some fruit salad and crackers for me.\n#Person2#: Done. Oh, don't forget to take napkins disposable plates, cups and picnic blanket.\n#Person1#: All set. May, can you help me take all these things to the living room?\n#Person2#: Yes, madam.\n#Person1#: Ask Daniel to give you a hand?\n#Person2#: No, mom, I can manage it by myself. His help just causes more trouble.  Summary:",
+        "human_summary": "May is helping her mother to do some preparation for the picnic.",
+        "model_output_base": "The weather report says it will be sunny all day.",
+        "model_output_finetuning": "You can help your mom take all these things to the living room."
+    },
+    {
+        "index": 79,
+        "prompt": "Summarize the following dialogue  #Person1#: May, do you mind helping me prepare for the picnic?\n#Person2#: Sure. Have you checked the weather report?\n#Person1#: Yes. It says it will be sunny all day. No sign of rain at all. This is your father's favorite sausage. Sandwiches for you and Daniel.\n#Person2#: No, thanks Mom. I'd like some toast and chicken wings.\n#Person1#: Okay. Please take some fruit salad and crackers for me.\n#Person2#: Done. Oh, don't forget to take napkins disposable plates, cups and picnic blanket.\n#Person1#: All set. May, can you help me take all these things to the living room?\n#Person2#: Yes, madam.\n#Person1#: Ask Daniel to give you a hand?\n#Person2#: No, mom, I can manage it by myself. His help just causes more trouble.  Summary:",
+        "human_summary": "May's mother asks May for help in preparing for a picnic. May gives her a hand.",
+        "model_output_base": "The weather report says it will be sunny all day.",
+        "model_output_finetuning": "You can help your mom take all these things to the living room."
+    },
+    {
+        "index": 80,
+        "prompt": "Summarize the following dialogue  #Person1#: May, do you mind helping me prepare for the picnic?\n#Person2#: Sure. Have you checked the weather report?\n#Person1#: Yes. It says it will be sunny all day. No sign of rain at all. This is your father's favorite sausage. Sandwiches for you and Daniel.\n#Person2#: No, thanks Mom. I'd like some toast and chicken wings.\n#Person1#: Okay. Please take some fruit salad and crackers for me.\n#Person2#: Done. Oh, don't forget to take napkins disposable plates, cups and picnic blanket.\n#Person1#: All set. May, can you help me take all these things to the living room?\n#Person2#: Yes, madam.\n#Person1#: Ask Daniel to give you a hand?\n#Person2#: No, mom, I can manage it by myself. His help just causes more trouble.  Summary:",
+        "human_summary": "Mom asks May to help to prepare for the picnic and May agrees.",
+        "model_output_base": "The weather report says it will be sunny all day.",
+        "model_output_finetuning": "You can help your mom take all these things to the living room."
+    },
+    {
+        "index": 81,
+        "prompt": "Summarize the following dialogue  #Person1#: Hello, are you Muriel Douglas?\n#Person2#: Yes, and you must be James. It's nice to meet you at long last.\n#Person1#: Yes, you too. Thanks for agreeing to meet with us about the new account. My associate, Susan Kim, should be here any minute. Would you like something to drink while we're waiting?\n#Person2#: No, thanks. I'm fine. Did you have a nice holiday?\n#Person1#: Yes, I did. My family and I went to Tahoe to ski and the weather was great. How about you?\n#Person2#: I stayed in L. A. and it was sunny the entire weekend. We spent most of the time at home but we did go see King Kong on Christmas day.\n#Person1#: How did you like it?\n#Person2#: It was better than I expected. But, you know, I think I would have enjoyed skiing in Tahoe even better. Do you go there often?\n#Person1#: No, not much. My wife doesn't like to ski. She prefers vacationing where it's warmer, like Hawaii.\n#Person2#: I don't blame her. I really enjoyed it there when we went a few years ago. I'd like to go back sometime soon.\n#Person1#: Yes, me too. Oh, here's Susan now. Let me introduce you.  Summary:",
+        "human_summary": "Muriel Douglas and James meet each other and talk about what they have done during the holiday.",
+        "model_output_base": "Muriel Douglas and James Douglas are meeting about the new account.",
+        "model_output_finetuning": "You are Muriel Douglas and Muriel Douglas are Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas have a good holiday. Muriel Douglas and Muriel Douglas's family and Muriel Douglas and Muriel Douglas's family went to Tahoe to ski and the weather was good. Muriel Douglas's wife doesn't like to ski and his wife prefers vacationing where it's warmer."
+    },
+    {
+        "index": 82,
+        "prompt": "Summarize the following dialogue  #Person1#: Hello, are you Muriel Douglas?\n#Person2#: Yes, and you must be James. It's nice to meet you at long last.\n#Person1#: Yes, you too. Thanks for agreeing to meet with us about the new account. My associate, Susan Kim, should be here any minute. Would you like something to drink while we're waiting?\n#Person2#: No, thanks. I'm fine. Did you have a nice holiday?\n#Person1#: Yes, I did. My family and I went to Tahoe to ski and the weather was great. How about you?\n#Person2#: I stayed in L. A. and it was sunny the entire weekend. We spent most of the time at home but we did go see King Kong on Christmas day.\n#Person1#: How did you like it?\n#Person2#: It was better than I expected. But, you know, I think I would have enjoyed skiing in Tahoe even better. Do you go there often?\n#Person1#: No, not much. My wife doesn't like to ski. She prefers vacationing where it's warmer, like Hawaii.\n#Person2#: I don't blame her. I really enjoyed it there when we went a few years ago. I'd like to go back sometime soon.\n#Person1#: Yes, me too. Oh, here's Susan now. Let me introduce you.  Summary:",
+        "human_summary": "James and Muriel are talking while waiting for Susan, Muriel's associate. They talk about how they spent the holiday with their families.",
+        "model_output_base": "Muriel Douglas and James Douglas are meeting about the new account.",
+        "model_output_finetuning": "You are Muriel Douglas and Muriel Douglas are Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas have a good holiday. Muriel Douglas and Muriel Douglas's family and Muriel Douglas and Muriel Douglas's family went to Tahoe to ski and the weather was good. Muriel Douglas's wife doesn't like to ski and his wife prefers vacationing where it's warmer."
+    },
+    {
+        "index": 83,
+        "prompt": "Summarize the following dialogue  #Person1#: Hello, are you Muriel Douglas?\n#Person2#: Yes, and you must be James. It's nice to meet you at long last.\n#Person1#: Yes, you too. Thanks for agreeing to meet with us about the new account. My associate, Susan Kim, should be here any minute. Would you like something to drink while we're waiting?\n#Person2#: No, thanks. I'm fine. Did you have a nice holiday?\n#Person1#: Yes, I did. My family and I went to Tahoe to ski and the weather was great. How about you?\n#Person2#: I stayed in L. A. and it was sunny the entire weekend. We spent most of the time at home but we did go see King Kong on Christmas day.\n#Person1#: How did you like it?\n#Person2#: It was better than I expected. But, you know, I think I would have enjoyed skiing in Tahoe even better. Do you go there often?\n#Person1#: No, not much. My wife doesn't like to ski. She prefers vacationing where it's warmer, like Hawaii.\n#Person2#: I don't blame her. I really enjoyed it there when we went a few years ago. I'd like to go back sometime soon.\n#Person1#: Yes, me too. Oh, here's Susan now. Let me introduce you.  Summary:",
+        "human_summary": "Muriel Douglas and James send greetings and talk about their holiday before the meeting. Douglas stayed in L.A., while James went to Tahoe.",
+        "model_output_base": "Muriel Douglas and James Douglas are meeting about the new account.",
+        "model_output_finetuning": "You are Muriel Douglas and Muriel Douglas are Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas and Muriel Douglas have a good holiday. Muriel Douglas and Muriel Douglas's family and Muriel Douglas and Muriel Douglas's family went to Tahoe to ski and the weather was good. Muriel Douglas's wife doesn't like to ski and his wife prefers vacationing where it's warmer."
+    },
+    {
+        "index": 84,
+        "prompt": "Summarize the following dialogue  #Person1#: Stupid girl, making me spend so much money, now I have to get it from the ATM...\n#Person2#: Hello, welcome to Universal Bank. Please insert your card into the slot.\n#Person1#: I know where to put my card! Stupid machine, talking to me like I ' m an idiot...\n#Person2#: Please input your 6 digit PIN code followed by the pound key. Thank you. Please select an option. Thank you. You have selected withdrawal.\n#Person1#: Yeah, yeah, I know what I selected. Just gimme my money!\n#Person2#: Please type the amount you would like to withdraw. Thank you, you want to transfer 10000 USD to the World Wildlife Foundation. If this is correct please press 1.\n#Person1#: No, no! Stupid machine, what are you doing! No!\n#Person2#: Confirmed. Thank you for using our bank! Please remove your card from the slot. Goodbye!\n#Person1#: No, no way! What happened? Give me my money!\n#Person2#: Danger, danger! The exits have been sealed and the doors will remain locked in until the local authorities arrive. Thank you for using our bank. Have a nice day.  Summary:",
+        "human_summary": "#Person1# wants to withdraw money from an ATM, but the ATM automatically transfers 10000 USD to the World Wildlife Foundation after confirming the withdrawal option. #Person1# gets mad and somehow locked in.",
+        "model_output_base": "#Person1#: I have to withdraw money from the ATM. #Person2#: Please insert your card into the slot. #Person1#: I know where to put my card. #Person2#: Please type the amount you would like to withdraw. #Person1#: Yes, please. #Person2#: Confirmed. Thank you for using our bank.",
+        "model_output_finetuning": "You have to withdraw 10000 USD from Universal Bank."
+    },
+    {
+        "index": 85,
+        "prompt": "Summarize the following dialogue  #Person1#: Stupid girl, making me spend so much money, now I have to get it from the ATM...\n#Person2#: Hello, welcome to Universal Bank. Please insert your card into the slot.\n#Person1#: I know where to put my card! Stupid machine, talking to me like I ' m an idiot...\n#Person2#: Please input your 6 digit PIN code followed by the pound key. Thank you. Please select an option. Thank you. You have selected withdrawal.\n#Person1#: Yeah, yeah, I know what I selected. Just gimme my money!\n#Person2#: Please type the amount you would like to withdraw. Thank you, you want to transfer 10000 USD to the World Wildlife Foundation. If this is correct please press 1.\n#Person1#: No, no! Stupid machine, what are you doing! No!\n#Person2#: Confirmed. Thank you for using our bank! Please remove your card from the slot. Goodbye!\n#Person1#: No, no way! What happened? Give me my money!\n#Person2#: Danger, danger! The exits have been sealed and the doors will remain locked in until the local authorities arrive. Thank you for using our bank. Have a nice day.  Summary:",
+        "human_summary": "#Person1# run out of money because of a girl, and is withdrawing money from an ATM. But the ATM seems to go wrong and transfers #Person1#'s money to the World Wildlife Foundation, driving #Person1# crazy.",
+        "model_output_base": "#Person1#: I have to withdraw money from the ATM. #Person2#: Please insert your card into the slot. #Person1#: I know where to put my card. #Person2#: Please type the amount you would like to withdraw. #Person1#: Yes, please. #Person2#: Confirmed. Thank you for using our bank.",
+        "model_output_finetuning": "You have to withdraw 10000 USD from Universal Bank."
+    },
+    {
+        "index": 86,
+        "prompt": "Summarize the following dialogue  #Person1#: Stupid girl, making me spend so much money, now I have to get it from the ATM...\n#Person2#: Hello, welcome to Universal Bank. Please insert your card into the slot.\n#Person1#: I know where to put my card! Stupid machine, talking to me like I ' m an idiot...\n#Person2#: Please input your 6 digit PIN code followed by the pound key. Thank you. Please select an option. Thank you. You have selected withdrawal.\n#Person1#: Yeah, yeah, I know what I selected. Just gimme my money!\n#Person2#: Please type the amount you would like to withdraw. Thank you, you want to transfer 10000 USD to the World Wildlife Foundation. If this is correct please press 1.\n#Person1#: No, no! Stupid machine, what are you doing! No!\n#Person2#: Confirmed. Thank you for using our bank! Please remove your card from the slot. Goodbye!\n#Person1#: No, no way! What happened? Give me my money!\n#Person2#: Danger, danger! The exits have been sealed and the doors will remain locked in until the local authorities arrive. Thank you for using our bank. Have a nice day.  Summary:",
+        "human_summary": "#Person1# is withdrawing money from an ATM. But the ATM wrongly transfers #Person1#'s money to the World Wildlife Foundation. It drives #Person1# crazy.",
+        "model_output_base": "#Person1#: I have to withdraw money from the ATM. #Person2#: Please insert your card into the slot. #Person1#: I know where to put my card. #Person2#: Please type the amount you would like to withdraw. #Person1#: Yes, please. #Person2#: Confirmed. Thank you for using our bank.",
+        "model_output_finetuning": "You have to withdraw 10000 USD from Universal Bank."
+    },
+    {
+        "index": 87,
+        "prompt": "Summarize the following dialogue  #Person1#: Are you a social person?\n#Person2#: Yes, I am an outgoing person who likes to be with a lot of friends.\n#Person1#: What is your strategy in communicating with colleagues?\n#Person2#: Well, the most important thing in communication is your sincerity.  Summary:",
+        "human_summary": "#Person2# tells #Person1# #Person2#'s communication strategy.",
+        "model_output_base": "#Person1#: Are you a social person? #Person2#: Yes, I am an outgoing person who likes to be with a lot of friends. #Person1#: How do you communicate with colleagues? #Person2#: The most important thing in communication is your sincerity.",
+        "model_output_finetuning": "If you are an outgoing person who likes to be with a lot of friends, you are an outgoing person who likes to be with a lot of friends."
+    },
+    {
+        "index": 88,
+        "prompt": "Summarize the following dialogue  #Person1#: Are you a social person?\n#Person2#: Yes, I am an outgoing person who likes to be with a lot of friends.\n#Person1#: What is your strategy in communicating with colleagues?\n#Person2#: Well, the most important thing in communication is your sincerity.  Summary:",
+        "human_summary": "Since #Person2# is very social, #Person1# asks for the communication strategy.",
+        "model_output_base": "#Person1#: Are you a social person? #Person2#: Yes, I am an outgoing person who likes to be with a lot of friends. #Person1#: How do you communicate with colleagues? #Person2#: The most important thing in communication is your sincerity.",
+        "model_output_finetuning": "If you are an outgoing person who likes to be with a lot of friends, you are an outgoing person who likes to be with a lot of friends."
+    },
+    {
+        "index": 89,
+        "prompt": "Summarize the following dialogue  #Person1#: Are you a social person?\n#Person2#: Yes, I am an outgoing person who likes to be with a lot of friends.\n#Person1#: What is your strategy in communicating with colleagues?\n#Person2#: Well, the most important thing in communication is your sincerity.  Summary:",
+        "human_summary": "#Person2# shares #Person2#'s communication strategy with #Person1#.",
+        "model_output_base": "#Person1#: Are you a social person? #Person2#: Yes, I am an outgoing person who likes to be with a lot of friends. #Person1#: How do you communicate with colleagues? #Person2#: The most important thing in communication is your sincerity.",
+        "model_output_finetuning": "If you are an outgoing person who likes to be with a lot of friends, you are an outgoing person who likes to be with a lot of friends."
+    },
+    {
+        "index": 90,
+        "prompt": "Summarize the following dialogue  #Person1#: What's wrong with you, Mr. Polly?\n#Person2#: What's wrong? I want a break from this horrible job.\n#Person1#: Then, buy a bottle of soft drink.\n#Person2#: Would you like to buy a bottle for me in the shop?\n#Person1#: It's a problem, because my boss is in that shop now.\n#Person2#: Ok, I will go there myself.\n#Person1#: Sorry, Mr. Polly.\n#Person2#: It doesn't matter. Oh, God, I have only four dollars in my wallet. Is that possible for me to buy one?\n#Person1#: Have a try.  Summary:",
+        "human_summary": "Mr. Polly is tired and wants a break from work. #Person1# cannot buy a bottle of soft drink for him.",
+        "model_output_base": "Person1 wants to buy a bottle of soft drink for his boss.",
+        "model_output_finetuning": "You want to buy a bottle of soft drink."
+    },
+    {
+        "index": 91,
+        "prompt": "Summarize the following dialogue  #Person1#: What's wrong with you, Mr. Polly?\n#Person2#: What's wrong? I want a break from this horrible job.\n#Person1#: Then, buy a bottle of soft drink.\n#Person2#: Would you like to buy a bottle for me in the shop?\n#Person1#: It's a problem, because my boss is in that shop now.\n#Person2#: Ok, I will go there myself.\n#Person1#: Sorry, Mr. Polly.\n#Person2#: It doesn't matter. Oh, God, I have only four dollars in my wallet. Is that possible for me to buy one?\n#Person1#: Have a try.  Summary:",
+        "human_summary": "Mr. Polly wants to get a break from work and he asks #Person1# to buy a drink for him, but #Person1# refuses.",
+        "model_output_base": "Person1 wants to buy a bottle of soft drink for his boss.",
+        "model_output_finetuning": "You want to buy a bottle of soft drink."
+    },
+    {
+        "index": 92,
+        "prompt": "Summarize the following dialogue  #Person1#: What's wrong with you, Mr. Polly?\n#Person2#: What's wrong? I want a break from this horrible job.\n#Person1#: Then, buy a bottle of soft drink.\n#Person2#: Would you like to buy a bottle for me in the shop?\n#Person1#: It's a problem, because my boss is in that shop now.\n#Person2#: Ok, I will go there myself.\n#Person1#: Sorry, Mr. Polly.\n#Person2#: It doesn't matter. Oh, God, I have only four dollars in my wallet. Is that possible for me to buy one?\n#Person1#: Have a try.  Summary:",
+        "human_summary": "Mr. Polly asks #Person1#'s help to buy a drink, but #Person1# refuses.",
+        "model_output_base": "Person1 wants to buy a bottle of soft drink for his boss.",
+        "model_output_finetuning": "You want to buy a bottle of soft drink."
+    },
+    {
+        "index": 93,
+        "prompt": "Summarize the following dialogue  #Person1#: Hello, this is Francis.\n#Person2#: Hi, this is Monica. I was wondering when we can work on this financial report.\n#Person1#: Today, I am busy all day long.\n#Person2#: Shall I see you on Friday morning?\n#Person1#: That's not good for me at all. It'll have to be another time.\n#Person2#: We must find some time to read report.\n#Person1#: I know. I am available from 1 PM to 4 PM on Friday afternoon.\n#Person2#: That's all right. Then see you on Friday afternoon.\n#Person1#: See you.  Summary:",
+        "human_summary": "Francis and Monica are discussing when to work on the financial report.",
+        "model_output_base": "The financial report will be due on Friday afternoon.",
+        "model_output_finetuning": "This is Francis. #Person1# is busy all day long. #Person1# asks Francis to meet with #Person2# on Friday afternoon."
+    },
+    {
+        "index": 94,
+        "prompt": "Summarize the following dialogue  #Person1#: Hello, this is Francis.\n#Person2#: Hi, this is Monica. I was wondering when we can work on this financial report.\n#Person1#: Today, I am busy all day long.\n#Person2#: Shall I see you on Friday morning?\n#Person1#: That's not good for me at all. It'll have to be another time.\n#Person2#: We must find some time to read report.\n#Person1#: I know. I am available from 1 PM to 4 PM on Friday afternoon.\n#Person2#: That's all right. Then see you on Friday afternoon.\n#Person1#: See you.  Summary:",
+        "human_summary": "Francis and Monica manage to find time to work on a report together.",
+        "model_output_base": "The financial report will be due on Friday afternoon.",
+        "model_output_finetuning": "This is Francis. #Person1# is busy all day long. #Person1# asks Francis to meet with #Person2# on Friday afternoon."
+    },
+    {
+        "index": 95,
+        "prompt": "Summarize the following dialogue  #Person1#: Hello, this is Francis.\n#Person2#: Hi, this is Monica. I was wondering when we can work on this financial report.\n#Person1#: Today, I am busy all day long.\n#Person2#: Shall I see you on Friday morning?\n#Person1#: That's not good for me at all. It'll have to be another time.\n#Person2#: We must find some time to read report.\n#Person1#: I know. I am available from 1 PM to 4 PM on Friday afternoon.\n#Person2#: That's all right. Then see you on Friday afternoon.\n#Person1#: See you.  Summary:",
+        "human_summary": "Francis and Monica negotiate on the time to work on the report.",
+        "model_output_base": "The financial report will be due on Friday afternoon.",
+        "model_output_finetuning": "This is Francis. #Person1# is busy all day long. #Person1# asks Francis to meet with #Person2# on Friday afternoon."
+    },
+    {
+        "index": 96,
+        "prompt": "Summarize the following dialogue  #Person1#: Is this the workshop to prepare for an interview?\n#Person2#: This is the interview class. Welcome to our class.\n#Person1#: I am really excited to be taking this workshop so that I can get ready for my interview next week.\n#Person2#: We are all learning things that will help us in our interview. What do you think are some important considerations going into your interview?\n#Person1#: I think that we should dress neatly and appropriately.\n#Person2#: Yes. Second, as you can imagine, attitude and friendliness go a long way.\n#Person1#: Yes, and I always feel much better when I am friendly.\n#Person2#: Believe it or not, the interviewers are as interested in your questions as they are in your answers.\n#Person1#: Any more hints as to what I should do in an interview?\n#Person2#: Always be honest with your answers. The interviewers really do want to know if you will be a good fit for them.  Summary:",
+        "human_summary": "#Person1# joins #Person2#'s interview workshop. They discuss the tips to improve their interview performance.",
+        "model_output_base": "The interview class is on Thursday at the Career Center.",
+        "model_output_finetuning": "Get ready for your interview."
+    },
+    {
+        "index": 97,
+        "prompt": "Summarize the following dialogue  #Person1#: Is this the workshop to prepare for an interview?\n#Person2#: This is the interview class. Welcome to our class.\n#Person1#: I am really excited to be taking this workshop so that I can get ready for my interview next week.\n#Person2#: We are all learning things that will help us in our interview. What do you think are some important considerations going into your interview?\n#Person1#: I think that we should dress neatly and appropriately.\n#Person2#: Yes. Second, as you can imagine, attitude and friendliness go a long way.\n#Person1#: Yes, and I always feel much better when I am friendly.\n#Person2#: Believe it or not, the interviewers are as interested in your questions as they are in your answers.\n#Person1#: Any more hints as to what I should do in an interview?\n#Person2#: Always be honest with your answers. The interviewers really do want to know if you will be a good fit for them.  Summary:",
+        "human_summary": "#Person1# takes an interview workshop. #Person2# offer #Person1# some useful tips on getting ready for an interview.",
+        "model_output_base": "The interview class is on Thursday at the Career Center.",
+        "model_output_finetuning": "Get ready for your interview."
+    },
+    {
+        "index": 98,
+        "prompt": "Summarize the following dialogue  #Person1#: Is this the workshop to prepare for an interview?\n#Person2#: This is the interview class. Welcome to our class.\n#Person1#: I am really excited to be taking this workshop so that I can get ready for my interview next week.\n#Person2#: We are all learning things that will help us in our interview. What do you think are some important considerations going into your interview?\n#Person1#: I think that we should dress neatly and appropriately.\n#Person2#: Yes. Second, as you can imagine, attitude and friendliness go a long way.\n#Person1#: Yes, and I always feel much better when I am friendly.\n#Person2#: Believe it or not, the interviewers are as interested in your questions as they are in your answers.\n#Person1#: Any more hints as to what I should do in an interview?\n#Person2#: Always be honest with your answers. The interviewers really do want to know if you will be a good fit for them.  Summary:",
+        "human_summary": "In the workshop, #Person2# offer #Person1# some suggestions on how to perform well in interviews.",
+        "model_output_base": "The interview class is on Thursday at the Career Center.",
+        "model_output_finetuning": "Get ready for your interview."
+    },
+    {
+        "index": 99,
+        "prompt": "Summarize the following dialogue  #Person1#: OK, that's a cut! Let's start from the beginning, everyone.\n#Person2#: What was the problem that time?\n#Person1#: The feeling was all wrong, Mike. She is telling you that she doesn't want to see you any more, but I want to get more anger from you. You're acting hurt and sad, but that's not how your character would act in this situation.\n#Person2#: But Jason and Laura have been together for three years. Don't you think his reaction would be one of both anger and sadness?\n#Person1#: At this point, no. I think he would react the way most guys would, and then later on, we would see his real feelings.\n#Person2#: I'm not so sure about that.\n#Person1#: Let's try it my way, and you can see how you feel when you're saying your lines. After that, if it still doesn't feel right, we can try something else.  Summary:",
+        "human_summary": "#Person1# and Mike are discussing what kind of emotion should be expressed by Mike in this play. They have different understandings.",
+        "model_output_base": "The two people are going to try to figure out what Jason and Laura are feeling.",
+        "model_output_finetuning": "Get more anger from Mike."
+    }
+]
