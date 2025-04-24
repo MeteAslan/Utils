@@ -1,0 +1,46 @@
+[
+    {
+        "type": "multiple_choice",
+        "question": "Which of the following is part of the Building stage in LLM development?",
+        "options": [
+            "Loading pretrained weights",
+            "Classifier training",
+            "Designing the attention mechanism",
+            "Fine-tuning on instruction datasets"
+        ],
+        "correct_option_index": 2
+    },
+    {
+        "type": "multiple_choice",
+        "question": "What does the term \"large\" in Large Language Models (LLMs) primarily refer to?",
+        "options": [
+            "The length of input sentences",
+            "The size of the embedding vectors",
+            "The number of parameters and training data size",
+            "The number of output classes"
+        ],
+        "correct_option_index": 2
+    },
+    {
+        "type": "multiple_choice",
+        "question": "What is the purpose of tokenization in NLP preprocessing?",
+        "options": [
+            "To speed up the training loop",
+            "To convert raw text into numerical format using discrete chunks",
+            "To apply dropout to training data",
+            "To translate words to different languages"
+        ],
+        "correct_option_index": 1
+    },
+    {
+        "type": "multiple_choice",
+        "question": "In the context of building a vocabulary during tokenization, which of the following statements is correct?",
+        "options": [
+            "Tokens are added to the vocabulary based on the order they appear in the text.",
+            "Each word is assigned a token ID based on word length.",
+            "The vocabulary is a list of all unique tokens, sorted alphabetically and mapped to token IDs.",
+            "All tokens from every sentence are added to the vocabulary, including duplicates."
+        ],
+        "correct_option_index": 2
+    }
+]
